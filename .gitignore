@@ -1,0 +1,26 @@
+# Ignore the virtual environment
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# VS Code settings (optional to ignore)
+.vscode/
+
+# Output files
+/outputs/
+*.png
+*.pdf
+
+# CSVs that shouldn't be versioned
+codified_matrix.csv
+
+# OS-specific
+.DS_Store
+Thumbs.db

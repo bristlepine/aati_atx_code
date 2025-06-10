@@ -14,12 +14,13 @@ To analyze the ATx comparative matrix and produce insightful figures such as:
 
 ## 🗃️ File Structure
 
-.
+```
 ├── aati_figures.py       # Main script for data processing and visualization
 ├── Desk Research Matrix - Combined Matrix.csv      # Raw Matrix
 ├── codified_matrix.csv   # Codified Matrix
 ├── README.md             # This file
 └── outputs/              # Auto-generated figures and tables
+```
 
 ## ⚙️ Setup
 
