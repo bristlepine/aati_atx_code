@@ -1,0 +1,928 @@
+Dimension 1: Governance
+Strengths:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Multi-Partner Structure] The African Agricultural Transformation Initiative (AATI) features a multi-organization governance and funding structure, including agricultural development institutions (IFAD), African institutions specializing in governance and capability building (AGRA), and expertise in driving transformations (McKinsey & Company), which distinguishes it from individual agency efforts. (High confidence)
+◦
+[Flexible Design] The AATI adopts a modular design approach, allowing support offerings, timing, and governance models to be tailored to specific country needs and existing initiatives. (High confidence)
+◦
+[Clear Central Role] The central AATI team is responsible for guiding and coordinating the initiative, enabling and supporting national ATAs, and compiling a knowledge hub of successful approaches, which helps ensure common design principles and best practices are shared. (High confidence)
+•
+Source: AATI FAQ for IFAD EB Members FINAL.pdf
+◦
+[Central Unit Support] A central AATI coordination unit is established to work with national ATAs, providing support and guidance to help identify priority areas and design policies and projects. (High confidence)
+•
+Source: AO 2 - ATA Orientation_vDec 2021.pdf
+◦
+[Strategic Oversight] The Agricultural Transformation Council (for Ethiopia's ATA) oversees and sets the strategic direction for the Transformation Agenda, involving senior leadership of Ministries, Agencies, and Regional Bureaus. (High confidence)
+•
+Source: ATA Contract farming model_TASC Learning doc_v1_28.02.2025_ASG.pdf
+◦
+[Presidential Supervision] Togo's ATA is placed under the supervision of the Presidency of the Republic, ensuring high-level oversight and financial supervision from the Ministry of Finance. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Organized Missions] The ATA in Togo defines its missions as analytical studies, implementation of priority projects, implementation of support measures for priority projects, and establishing linkages and coordination, providing a clear operational framework. (High confidence)
+•
+Source: ATI Annual_Report_2024_December-20.pdf
+◦
+[Robust Governance Structure] The Ethiopian Food System Transformation and Nutrition (EFSTN) initiative, coordinated by ATI, has a robust governance structure with an Inter-Ministerial Steering Committee at the federal level and a Development Partner Group, fostering multi-actor mobilization. (High confidence)
+◦
+[Strategic Steering Committee] The Digital Agriculture Roadmap (DAR) in Ethiopia has a Steering Committee chaired by the Minister of Agriculture and co-chaired by the ATI CEO, providing strategic direction, along with a Technical Committee for specialized insights. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Political Endorsement] Delivery units derive their influence from concerted political sponsorship and the backing of relevant leadership, which is crucial for effectiveness and buy-in from engaged stakeholders. (High confidence)
+◦
+[Clear Mission] The role, scope, and objectives of a delivery unit should be clear and accepted, ensuring that staff understand their purpose and how it contributes to broader goals. (High confidence)
+•
+Source: EB 2021-VBC-7-Request to establish AATI Trust Fund-FINAL (2).pdf
+◦
+[Collaborative Leadership] The AATI draws on the strengths of its four Founding Partners, with IFAD hosting the AATI and, along with B&MGF and AGRA, providing guidance and expertise through a multi-partner steering committee that leads strategy and implementation. (High confidence)
+•
+Source: Governance framework of the AATI .pdf
+◦
+[Defined Framework] The AATI has a defined governance framework, including a steering committee, a Council of Advisors, a Central Unit, and Agriculture Transformation Offices/Agencies (ATO/ATA) in supported countries, outlining roles and authorities for implementation. (High confidence)
+◦
+[Country-Context Tailoring] The management and governance arrangements for national ATAs are developed and tailored to the specific country context, ensuring local ownership and effectiveness. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Enhanced Service Delivery] AATI enhanced its service delivery by establishing a Service Delivery Pillar in October 2024 to offer customized assistance to ATOs in adopting the "deliverology" approach to strategy implementation. (High confidence)
+•
+Source: Khalid Bomba - presentation on Nodal Agency concept and Ethiopian ATA (2010 - 2020) - March 2025.pdf
+◦
+[Clear Mandate Areas] The Ethiopian ATA had four key mandate areas detailed in its founding and amended regulations: analytical studies, implementation of recommended solutions, implementation support, and linkages and coordination. (High confidence)
+•
+Source: Sudan ALTA Learning Document.pdf
+◦
+[Ministerial Level Placement] The Sudan Agriculture and Livestock Transformation Agency (ALTA) was designed to be positioned at the same level in the Government as a ministry, reporting to a Board of Directors that meets quarterly. (High confidence)
+Weaknesses:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Sustainability Risk] National ATAs may overly rely on support from central AATI teams, potentially hindering the development of their own capabilities for sustainable continuity. (High confidence)
+◦
+[External Dependency] The sustainability of the central AATI team is linked to the needs of national ATAs, implying an external dependency for its continued existence. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Role Delimitation Issues] In Togo, the delineation of roles between the Directorate of Analytics and Directorate of Delivery within the ATA is blurred and unclear, with both teams doing analytical and implementation work. (High confidence)
+◦
+[Unclear Expense Approvals] In Togo, there is a general lack of clarity on expense approvals between the ATA and MAEDR. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Inter-institutional Tensions] The Ethiopian ATA, despite being a standalone institution accountable to a Transformation Council, faced inter-institutional tensions that constrained its ability to provide support and monitor the execution of the agricultural transformation agenda. (High confidence)
+◦
+[Limited Authority] Delivery units are primarily advisory bodies with limited authority, deriving influence from political backing and access to decision-makers rather than their own decision-making power. (High confidence)
+•
+Source: EB 2021-VBC-7-Request to establish AATI Trust Fund-FINAL (2).pdf
+◦
+[Capacity Gaps] Weaknesses in national delivery infrastructure hinder agricultural transformation efforts. (High confidence)
+◦
+[Decision Misalignment] Government effectiveness is impacted by misalignment and a lack of capacity and transformational leadership. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Ministerial Resistance] In Ghana, resistance within the Ministry of Agriculture to establishing a Delivery Unit posed a considerable obstacle to its success. (High confidence)
+◦
+[Reporting Structure Complexity] Legal advice indicated that ATO personnel hired by AATI (with IFAD contracts) must report to AATI and provide services to the government, rather than reporting directly to the government, which can complicate ownership and integration. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Implementation Delays] In Tanzania, the Agricultural Master Plan (AMP), co-designed by AATI and the Government, was not officially launched by the end of 2024, limiting AATI’s ability to advance transformation efforts. (High confidence)
+◦
+[Workplan Non-Alignment] In Tanzania, the ATO's submitted workplan did not align with the AATI Workplan and M&E Framework, proposing activities IFAD's implementation does not support, leading to delays in finalization. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Instability Risk] The Government of Sudan, being new when the ALTA model was being developed, lacked the stability needed to implement the agricultural transformation initiative effectively. (High confidence)
+◦
+[Shifting Reporting Lines] In Ethiopia, the change in Prime Minister in 2018 ended the Transformation Council, and the ATA began reporting directly to the Ministry of Agriculture, shifting its governance structure. (High confidence)
+Opportunities:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Demand-Driven Engagement] The AATI's approach to country selection and engagement is demand-driven and bottom-up, co-creating tailored support requests with local governments to ensure alignment. (High confidence)
+◦
+[Leveraging Existing Efforts] The AATI aims to complement, coordinate, and streamline existing efforts of partners rather than duplicating them, focusing on the specific gap of combining strategy formulation with strong local delivery mechanisms in agriculture. (High confidence)
+◦
+[Learning & Adaptation] The AATI aims to apply an open-minded and flexible learning mindset, adapting its support offering and governance based on evolving country needs and contexts. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Flexible Support Models] The AATI developed a new flexible support model (grant vs. direct implementation) that enabled it to expedite engagements with recipient governments based on their expressed needs. (High confidence)
+◦
+[Blueprint for Offices] AATI developed a comprehensive blueprint for establishing Agricultural Transformation Offices, which includes scenarios and templates based on country-specific elements and incorporates learnings from the Ethiopian ATA, offering a valuable guide for future deployments. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Streamlined Work Planning] The AATI Central Unit will initiate a structured approach in Q1 to improve work planning processes within ATOs, including a prioritization matrix and guidelines for a structured methodology. (High confidence)
+◦
+[Comparative Learning Retreat] AATI, in collaboration with TASC, will organize a learning retreat in Q2 on agricultural delivery mechanisms to review different models (ATA, ATO, Food Security War Rooms) and contribute to a best-practice modular framework. (High confidence)
+•
+Source: One pager - AATI with countries - June 2023.pdf
+◦
+[Integrated Approach] Opportunities exist for a more integrated approach to agricultural transformation in Africa, addressing challenges like limited analytical rigor, implementation challenges, and coordination gaps. (High confidence)
+Threats:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Political Turnover] Changes in political leadership can create discontinuities that undermine the sustainability of the ATx's impact, as these are outside the ATx's control. (High confidence)
+◦
+[Fragmentation Risk] The AATI's efforts could contribute to further fragmentation of country-level development support if it does not effectively collaborate and seek complementarities with existing players like TBI, BFAP, MAFAP, and IFPRI. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Competing Agendas] In Tanzania, the existence of two competing documents (ASDP II and Agricultural Master Plan) limited AATI’s ability to advance agricultural transformation efforts. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Political Volatility] Political buy-in and stability are crucial for the success of the ATA model, and unstable political environments can undermine its effectiveness, as observed in Sudan. (High confidence)
+
+--------------------------------------------------------------------------------
+Dimension 2: Financing
+Strengths:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Multi-donor Funding Structure] The AATI has a multi-organization funding structure, including IFAD, AGRA, BMGF, and McKinsey & Company, which allows for combined capabilities and resources. (High confidence)
+◦
+[Lean Central Structure] The central AATI level aims to operate with a very lean structure, with costs expected to become increasingly marginal as operations scale up in multiple countries. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Budget Allocation Clarity] Decisions are made on confirming the total available budget for the year and allocating funds to categories of operating expenses and programmatic activities. (High confidence)
+•
+Source: ATI Annual_Report_2024_December-20.pdf
+◦
+[Sub-Grant Approach] ATI utilizes a Sub-Grant approach to offer financial support to partners working on Agricultural Transformation Agenda Deliverables, accelerating implementation by supporting government institutions, NGOs, and private sector actors. (High confidence)
+•
+Source: INV-006368_Progress Report_P2_FV.pdf
+◦
+[Seed Funding] The Rockefeller Foundation provided USD 100,000 funding to support AATI substantive functions, demonstrating external partner interest. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Direct Implementation Model] AATI introduced a direct implementation model where it recruits ATO personnel and procures services, addressing concerns from Ministers about grant-based support delays due to national treasury processes. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Targeted Project Proposals] The ATO in Tanzania developed project proposals targeting approximately US$6 million in funding to remove regulatory barriers, promote youth-led agribusiness, and strengthen ministry capacity. (High confidence)
+◦
+[Diversified Funding Channels] Proposed funding for Tanzanian projects is intended to come from various channels, including grants from the Norwegian Embassy, AfDB, and the African Capacity Building Foundation. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Flexible Grant Use] A flexible grant from the Dutch Embassy allowed TASC to pivot its support to the ATA team based on evolving needs. (High confidence)
+Weaknesses:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Funding Gap] An initial investment from BMGF of approximately USD 10 million still leaves a financing gap of about USD 12.7 million for the AATI. (High confidence)
+◦
+[Local Funding Uncertainty] National delivery units require funding from the private sector, other donors, and governments themselves, and the successful ATA models need to create internal demand to eventually make external funding less critical. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Recruitment Process Paused] Recruitment for the Director of Business Administration and Finance (DAF) had a qualified candidate, but the process was paused, which could impact financial management. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Grant Disbursement Delays] Concerns from high-level stakeholders, often Ministers, indicated that grant-based support could lead to delays in the implementation of an ATO, especially if funds are channeled through National Treasury. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Budget Gaps] An assessment of the Ministry of Agriculture’s budget for 2024/2025 in Tanzania highlighted a gap in resources needed to fully implement the AMP. (High confidence)
+Opportunities:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Catalytic Investment] Initial investment from the Gates Foundation is seen as catalytic to achieve further investments from other donors, with clear appetite from multiple organizations. (High confidence)
+◦
+[Strategic Fundraising] An immediate task for partners is to seek and mobilize additional external funding for both the AATI and national ATAs, focusing on bilateral actors and foundations with interest in state capacity building. (High confidence)
+◦
+[Government Contribution Expectation] National governments are expected to contribute to the funding of national ATAs to ensure commitment and strengthen sustainability. (High confidence)
+•
+Source: ATA Strategic Retreat_ August 2023
+◦
+[Diversified Donor Engagement] The ATA plans to focus on partnerships with GIZ, GGGI, EU, and the World Bank for funding. (High confidence)
+◦
+[Climate Finance Access] GGGI funding for the Green Climate Fund (GCF) TRANS Project for Climate Smart Agriculture with ATA as the government's focal institution offers an opportunity for significant funding. (High confidence)
+•
+Source: INV-006368_Progress Report_P2_FV.pdf
+◦
+[New Partnerships] Discussions explored potential partnerships with organizations like the Syngenta Foundation, Food Action Alliance (FAA), Mastercard Foundation, AATF, and ACT for resource mobilization and collaboration. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Partnership Strengthening] Partnerships and resource mobilization efforts saw meaningful progress with strengthened engagements with IFPRI, GIZ, and AfDB. (High confidence)
+Threats:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[External Funding Reliance] The initial funding gap and the need for continuous fundraising from external partners pose a risk to financial stability if sufficient resources are not mobilized. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Limited Initial Funding] Resource mobilization was not an initial priority for the Ethiopian ATA, leading to smaller activities designed without donor dependence, which could limit scale. (High confidence)
+
+--------------------------------------------------------------------------------
+Dimension 3: Institutional Anchoring
+Strengths:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Context-Specific Design] The exact setup of each national ATA/delivery unit will differ to suit the political, institutional, and socio-economic context of the country, ensuring relevance and adaptability. (High confidence)
+◦
+[IFAD Hosting Advantage] IFAD is well-positioned to host the AATI due to its specific mandate in rural poverty, project portfolio focused on inclusive and sustainable rural transformations, established gender and climate finance systems, strong brand in Africa, and experience in hosting development initiatives. (High confidence)
+◦
+[Central Team Proximity] The AATI central team will be set up in a Sub-Saharan African country (e.g., Kenya) to offer geographical proximity to the supported ATAs, fostering close coordination and shared practices. (High confidence)
+•
+Source: AATI FAQ for IFAD EB Members FINAL.pdf
+◦
+[Government Hosting for Ownership] National ATAs, independent of the AATI coordination unit, are intended to be hosted by governments to increase ownership and become main drivers of transformation. (High confidence)
+•
+Source: ATA Contract farming model_TASC Learning doc_v1_28.02.2025_ASG.pdf
+◦
+[Public Administrative Agency] Togo's ATA is established as a public administrative agency with legal personality and administrative and financial management autonomy. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Decree-Based Creation] The ATA in Togo was officially created by a decree signed on November 17, 2022, providing a clear legal basis for its establishment and operation. (High confidence)
+•
+Source: ATI ACC overview_June2025.pdf
+◦
+[Permanent Institute Status] Following a proclamation in 2021, the Ethiopian ATA transitioned to an Institute (ATI), removing its initial time limit and establishing it as a permanent institution to better meet sector needs. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Flexible Anchoring Options] Agricultural Transformation DUs can be placed within the Prime Minister's/President's Office, a multi-sectoral Ministry (e.g., Planning/Economic Development), or directly within the Ministry of Agriculture, or be an independent entity accountable to an inter-ministerial committee or MoA leadership. (High confidence)
+•
+Source: FNS Group_Dutch Ministry_May 2025_final.pdf
+◦
+[PM Accountability (Historical)] The Ethiopian ATA was initially accountable to a Transformation Council chaired by the Prime Minister, demonstrating high-level government ownership. (High confidence)
+◦
+[Independent Office for Culture] The Ethiopian ATI is now part of the Ministry of Agriculture but maintains independent offices to retain a unique culture and operational autonomy. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Flexible Institutional Evolution] The AATI blueprint provides scenarios for the evolution of delivery units into transformation offices following a nodal agency format, indicating a flexible long-term institutional path. (High confidence)
+•
+Source: Khalid Bomba - presentation on Nodal Agency concept and Ethiopian ATA (2010 - 2020) - March 2025.pdf
+◦
+[Nodal Agency Model] Ethiopia adapted key aspects of the Nodal Agency model in the creation of its Agricultural Transformation Agency (ATA) in 2010, designed as an independent "acceleration unit" reporting to the PM. (High confidence)
+◦
+[High-Level Support and Autonomy] The Ethiopian ATA enjoyed a unique level of operational independence due to support from both government and donors, enabling it to pursue a technical and innovation-driven agenda. (High confidence)
+•
+Source: Sudan ALTA Learning Document.pdf
+◦
+[New PM Advocacy] The former Prime Minister of Sudan (Abdalla Hamdok) actively advocated for transforming agriculture using the Ethiopian ATA model, having observed its success during his time in Addis Ababa. (High confidence)
+Weaknesses:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Loss of Political Backing] The Ethiopian ATA experienced a loss of political backing with the death of the Prime Minister a few years into its operation, constraining its ability to provide support and monitor execution. (High confidence)
+•
+Source: ATA to ATI timeline v2.pdf
+◦
+[Mandate Shift] In 2021, the Ethiopian ATA was changed to the Agricultural Transformation Institute (ATI), with a re-emphasis on studies providing policy and systems recommendations, and no longer time-bound, potentially reducing its initial sense of urgency for direct implementation. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Resistance to New Structures] In Ghana, the Ministry of Agriculture showed resistance to the establishment of a Delivery Unit, which could be a considerable obstacle to its success if not addressed. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Transition Challenges] The Ethiopian ATI's transition from an agency to an institute in 2021 meant it operated under the MoA without being time-bound, with strategy and policy reemphasized in its mandate, indicating a shift from its earlier direct implementation focus. (High confidence)
+Opportunities:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Future African Host] The long-term aim for the AATI is to transfer its institutional anchor to an African institution specializing in delivery and policy engagement (e.g., AGRA or another institution) after 5 years, ensuring African ownership. (High confidence)
+◦
+[Leveraging Host Experience] The AATI aims to draw on IFAD’s experience and convening power in smallholder agriculture and rural development, as well as its "backroom" support services as a host organization. (High confidence)
+•
+Source: EB 2021-VBC-7-Request to establish AATI Trust Fund-FINAL (2).pdf
+◦
+[Demand-Driven Selection] Countries for the AATI initiative are selected based on their needs, potential for performance, government commitment, readiness for transformation, and capability to manage their ATAs independently in the future. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Country-Specific Adaptation] The blueprint for establishing ATx offices allows for scenarios based on country-specific elements like political economy, governance architecture (centralized or decentralized), and national aspirations, including thematic areas like climate change. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Transition to African Leadership] AATI is building the foundation for its transition to an African-led institution by 2025, with plans to facilitate the early transition of ATOs to AGRA by establishing a Transition Working Group. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Presidential Leadership] The establishment of Togo's ATA was explicitly identified as a way for the Government of Togo to achieve its existing goals for the agriculture sector, making it easy for the President to lead the effort. (High confidence)
+◦
+[Institutional Autonomy Vision] The ATA envisions being independent of politics, with the authority and stature to be long-term without needing government changes, aiming for institutional autonomy and strong reputation by 2030. (High confidence)
+Threats:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Political Intervention] Changes in political leadership (e.g., Prime Minister) and the political process can create discontinuities that undermine the sustainability of the ATx's impact. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Sub-National Exclusion] AATI will not consider positioning Delivery Units at the sub-national level as a design option, potentially limiting reach to where much of public sector support is undertaken. (High confidence)
+
+--------------------------------------------------------------------------------
+Dimension 4: Stakeholder Coordination
+Strengths:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Multi-Partner Collaboration] The AATI is founded by four partners (IFAD, AGRA, BMGF, McKinsey) who co-design the initiative and contribute unique capabilities, knowledge, and networks, highlighting flexibility in operations. (High confidence)
+◦
+[Co-Creation Approach] The AATI engages early on with local governments to co-create tailored support requests and ensure alignment with ongoing initiatives and existing delivery infrastructures. (High confidence)
+◦
+[Private Sector Engagement] National ATAs can strengthen ties to the private sector through mechanisms like roundtables, investment funnels, and targeted flagships to boost involvement and funding. (High confidence)
+•
+Source: AO 2 - ATA Orientation_vDec 2021.pdf
+◦
+[Cross-Sectoral Collaboration] The Ethiopian ATA works jointly with the Ministry of Agriculture, Ethiopian Institute of Agricultural Research, Regional Bureaus of Agriculture, and the private sector, strengthening their institutional and delivery capacity. (High confidence)
+•
+Source: ATA Contract farming model_TASC Learning doc_v1_28.02.2025_ASG.pdf
+◦
+[Systematic Involvement of Ministries] The ATA supports smallholder producers through the systematic involvement of the Ministry of Agriculture's technical services (e.g., ICAT, ANSAT, DPIV, ITRA). (High confidence)
+◦
+[Tripartite Contracting] The ATA facilitates tripartite contracts between buyers, producers, and the ATA itself, enhancing coordination in areas like seed performance, input control, and market access. (High confidence)
+•
+Source: ATI Annual_Report_2024_December-20.pdf
+◦
+[Extensive Partnerships] The ATI collaborates with a wide range of stakeholders, including policymakers, researchers, smallholder farmers, and development partners, to support agricultural development programs. (High confidence)
+◦
+[Inter-Ministerial Coordination] The ATI coordinates the Ethiopian Food System Transformation and Nutrition (EFSTN) and Digital Agriculture Roadmap (DAR), which involve multi-stakeholder platforms and inter-ministerial steering committees. (High confidence)
+◦
+[MOU Signings] The ATI signed MOUs with over 22 national and international organizations to strengthen collaboration and identified more than 10 potential development partners interested in supporting agricultural transformation. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Ecosystem Management] An Agricultural Transformation DU operates within a broad network of actors, including governance bodies, donors, public sector line departments, and agricultural value chain actors, requiring careful management of these relationships. (High confidence)
+•
+Source: EB 2021-VBC-7-Request to establish AATI Trust Fund-FINAL (2).pdf
+◦
+[Shared Expertise] The AATI draws upon the complementary capacities, resources, and expertise of its four Founding Partners (IFAD, AGRA, BMGF, McKinsey) for implementation. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Multi-stakeholder Workshops] The consultation process for establishing the ATO in Tanzania started with a week-long workshop involving government officials, development partners, and other key stakeholders, ensuring broad input. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Engagement with Key Associations] The ATO in Tanzania engaged the Tanzania Seed Traders Association (TASTA) and the Agriculture Seed Agency (ASA) to promote the AMP, specifically strengthening seed production and certification processes. (High confidence)
+◦
+[Co-located Support] ATOs are essentially an institutionalization of knowledge management and learning, greatly enhanced by being in-country and at times co-located with government officials, strengthening co-design of ideas. (High confidence)
+•
+Source: Khalid Bomba - presentation on Nodal Agency concept and Ethiopian ATA (2010 - 2020) - March 2025.pdf
+◦
+[Private Sector Engagement] The Ethiopian ATA shifted government's perspective on agriculture to a holistic systems approach, including leveraging the private sector and market mechanisms, and enabled their engagement with the sector in a structured way. (High confidence)
+•
+Source: Sudan ALTA Learning Document.pdf
+◦
+[Multistakeholder Design Process] The Sudan ALTA Scope/Design Team used a multistakeholder process to identify focus areas, ensure understanding of the ALTA's approach, and enable stakeholder involvement in agricultural transformation. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Continuous Pivoting] TASC needed to constantly pivot to provide relevant support to the ATA team, with embedded staff even leading an Implementation Cluster instead of an Analytics Team, showing flexible adaptation to partner needs. (High confidence)
+Weaknesses:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Unclear Partner Roles] While founding partners contribute unique capabilities, their specific roles at the national level are defined on a country-by-country basis, which could lead to initial ambiguities. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Ecosystem Understanding Gap] During the AATI mission to Ghana, the need to strengthen the Ministry of Agriculture's internal capacities to receive a Delivery Unit and understand its value-add and complementarity with existing structures became evident. (High confidence)
+Opportunities:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Expanded Partnerships] The AATI continuously explores opportunities to build partnerships with organizations like AfDB and AUDA-NEPAD to ensure a joined-up approach and avoid overlap. (High confidence)
+◦
+[Country-Specific Collaboration Models] The plan is to study each potential candidate country in-depth to craft a customized collaboration model where AATI support complements, rather than competes with, local efforts. (High confidence)
+•
+Source: AATI MoU_Final SIGNED.pdf
+◦
+[Cross-Sectoral Coordination] AGRA will continue to support governments in strengthening instruments for donor working groups, agricultural working groups, and other multi-stakeholder platforms for cross-sectoral coordination. (High confidence)
+•
+Source: INV-006368_Progress Report_P2_FV.pdf
+◦
+[Increased Visibility] The AATI aims to reinforce its visibility by utilizing founding partners' networks, operationalizing its communication strategy, and robustly participating in national/global forums to position itself as a response initiative for agricultural transformation. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Synergy Exploration] The Initiative is exploring partnerships with organizations like the African Agricultural Technology Foundation (AATF) to identify synergies for designing delivery mechanisms, interventions, or capacity-building activities across African countries. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[CGIAR Collaboration] Conversations with Technologies for African Agricultural Transformation (TAAT) focused on potential collaboration areas, leveraging their ties with CGIAR centers (ILRI, IFPRI, ICRISAT) and offering technical assistance to ATOs. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Demand-Driven Focus Areas] The Sudan ALTA intentionally had a limited number of clearly defined focus areas to achieve "quick wins" and undertake longer-term systems change, indicating a strategic approach to coordination. (High confidence)
+Threats:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Competition for Resources] Policy support and delivery advisory is a crowded space with many actors, posing a risk of fragmentation if AATI's efforts compete rather than collaborate. (High confidence)
+◦
+[Lack of Ownership] Without close interaction and co-creation with government, there's a risk of creating parallel structures or the AATI not being perceived as a joint offering. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Lack of Coordination] Unclear roles between Project Management Units (PMUs) and Delivery Units (DUs) can lead to duplication of efforts and hinder effective coordination. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Private Sector Disengagement] The Togo ATA's Contract Agriculture model aimed to facilitate private sector engagement, but challenges included risk perception from the agricultural sector, limited numbers of local buyers, and insufficient time to identify buyers. (High confidence)
+
+--------------------------------------------------------------------------------
+Dimension 5: Analytics
+Strengths:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Evidence-Based Approach] AATI aims to support local delivery infrastructures in using evidence to pivot decision-making for successful flagship delivery. (High confidence)
+◦
+[Strong M&E Capabilities] AATI supports the improvement and successful implementation of M&E capabilities within the agriculture sector, including increased digital capabilities and usage of tools, and well-structured performance management mechanisms. (High confidence)
+◦
+[Comprehensive Data Gathering] The initiative promotes comprehensive data-gathering to inform progress against special priority areas and supports increased generation and usage of data-driven tools for prioritization and policymaking. (High confidence)
+•
+Source: ACC Year 5 (2016 E.C.) Annual Performance Report_CLEAN.pdf
+◦
+[Improved PME] The Ethiopian ATI strengthened institutional capacities through collaborative efforts and improved planning, monitoring, and evaluation (PME). (High confidence)
+◦
+[Digital System Expansion] The NMIS system in Ethiopia expanded, providing training to new enumerators and raising awareness among stakeholders for data collection and utilization. (High confidence)
+•
+Source: AO 2 - ATA Orientation_vDec 2021.pdf
+◦
+[Think-Tank Reputation] The Ethiopian ATI has built its reputation as a think-tank based on producing world-class analytical output across commodities and value chains. (High confidence)
+•
+Source: ATA Contract farming model_TASC Learning doc_v1_28.02.2025_ASG.pdf
+◦
+[Systematic Monitoring] The ATA's agricultural campaign in Togo included daily monitoring with COGES and CTGEA and 6 to 10 field missions conducted to gather data and monitor services. (High confidence)
+◦
+[Data-Driven Decisions] Key takeaways emphasize systematic analysis, monitoring, and communication of field mission results to facilitate decision-making. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Directorate of Analytics] The ATA in Togo includes a Director of Analytics responsible for identifying systemic constraints, conducting analytical studies, and validating recommendations. (High confidence)
+◦
+[Data Collection Mechanism] The Directorate of Analytics sets up data collection mechanisms for each focus area and leads the assessment of objectives and recommendations. (High confidence)
+•
+Source: ATA Strategic Retreat_ August 2023
+◦
+[Integrated Analytical Planning] The ATA plans to develop analytic projects for various focus areas like mechanization, irrigation, digital extension, ZAAPs of excellence, and value chains, integrating analysis with operational goals. (High confidence)
+•
+Source: ATI Annual_Report_2024_December-20.pdf
+◦
+[Action-Oriented Studies] The ATI conducts action-oriented studies to identify critical systemic bottlenecks in Ethiopia’s agricultural sector and designs/proposes innovative system and policy solutions. (High confidence)
+◦
+[Digital Platform Development] The ATI has launched digital platforms like the 8028 Farmer’s Hotline, National Market Information System (NMIS), and Electronic Input Voucher System (e-voucher) to empower farmers with information. (High confidence)
+•
+Source: Casestudy on ATA(I) Analytics Evolution_ 2024+RA Comments.pdf
+◦
+[Complex Analysis Mandate] The Ethiopian ATA/I had a mandate that required it to conduct complex analyses, including program/project planning, coordination, reporting, prioritization, activity and resource management, tracking, and verification. (High confidence)
+◦
+[Action-Oriented Research] The ATA/I delivers action-oriented studies to identify systemic bottlenecks and propose solutions for agricultural systems. (High confidence)
+•
+Source: FAO 10 Year Assessment of the Ethiopian ATA.pdf
+◦
+[Extensive M&E System] The Ethiopian ATA undertook many strategy and policy studies (circa 250) as part of its monitoring and evaluation system, focusing on impacts of policies and projects related to the Transformation Agenda, including the ACC program and specific value chains. (High confidence)
+◦
+[EthioSIS Impact] The EthioSIS initiative was a central input for producing geo-referenced, crop-specific fertilizer recommendations nationwide, leading to a shift to more diverse fertilizer portfolios and linked to yield improvements. (High confidence)
+•
+Source: INV-006368_Progress Report_P2_FV.pdf
+◦
+[McKinsey Tools Kit] McKinsey & Company designed and made available a kit of 22 agricultural transformation support tools to AATI for monitoring and evaluation in areas like climate change, land use, food/resource optimization, value chain, and crop productivity. (High confidence)
+◦
+[Country-Budget Tool] AATI, with partners (IFAD, FAO, World Bank), is conceptualizing a Country-Budget Tool for Food Systems Transformation to measure public/private financing and inform investment decisions. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[MEL Framework Support] AATI provides expertise in specialized functions to support ATOs in Tanzania, Sierra Leone, and the Food Security War Room in Nigeria, including assistance with the M&E, workplan, budget, communications, logistics, and data architecture. (High confidence)
+◦
+[Knowledge Management Focus] AATI systematically promotes knowledge management and learning, with ATO organograms having competent M&E, knowledge management, and learning consultants, and a Central Unit M&E unit to curate learnings. (High confidence)
+Weaknesses:
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Unfilled Analytics Role] Recruitment for the Director of Analytics yielded no qualified candidates, requiring re-advertisement and international recruitment, which could delay analytical work. (High confidence)
+•
+Source: Casestudy on ATA(I) Analytics Evolution_ 2024+RA Comments.pdf
+◦
+[Limited Data Access] Despite having a lot of content, the Ethiopian ATI Analytics needs better access to data for internal studies and external client capacity building. (Medium confidence)
+•
+Source: FAO 10 Year Assessment of the Ethiopian ATA.pdf
+◦
+[Data Gaps] The FAO evaluation's quantitative analysis is limited by the availability and quality of data, with impact assessment mostly for the overall 8-year period due to lack of representative project data. (High confidence)
+◦
+[Difficulty Isolating Impacts] Significant overlap exists in the implementation of ATA’s projects within woredas, making it difficult to isolate the effect of any single intervention. (High confidence)
+◦
+[Limited Sample Representativeness] The Ethiopia Socioeconomic Survey (ESS) used for microeconomic analysis is not representative of ATA’s specific areas of intervention, limiting direct causal links. (High confidence)
+Opportunities:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Knowledge Dissemination] AATI aims to increase awareness and knowledge dissemination on successful models, tools, and approaches to agriculture delivery across Sub-Saharan Africa. (High confidence)
+◦
+[Free Dissemination] Given the multi-partner nature of AATI (multilateral, public, not-for-profit), free dissemination of tools and approaches can be easily facilitated, unlike projects with primarily private sector actors. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Analyst Training] There is a plan to develop an analyst training program for ATA analytics teams. (High confidence)
+◦
+[Feasibility Studies] Analytical activities include studying the feasibility of developing ATA programs for other focus areas (seeds, gender, climate, youth, soils, data management, M&E, post-harvest storage, microfinance, other value chains). (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[ASANA Rollout] A program management tool, ASANA, will be rolled out to enhance efficiency in tracking and reporting progress prior to the transition of ATOs to AGRA. (High confidence)
+◦
+[Digital Data System Enhancement] Sierra Leone's Ministry of Agriculture would significantly benefit from the ATO's additional assistance in fortifying its data systems. (High confidence)
+Threats:
+•
+Source: Copy of ATA_Rapport_Annuel_2023_Draft One _24-Jan (4).pdf
+◦
+[Input Misuse due to Lack of Training] Inappropriate use of herbicides due to lack of communication and training by CTGEA was identified as a challenge related to input provision and advisory support. (High confidence)
+◦
+[Poor Data Collection] Challenges in ZAAP governance included lack of transparent input management system, difficulties in collecting and mobilizing samples, and poor quality data after delivery. (High confidence)
+
+--------------------------------------------------------------------------------
+Dimension 6: Political-Managerial Balance
+Strengths:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[High-Level Political Buy-in] The AATI aims to build and maintain close relationships with governments and local partners to ensure continued political buy-in for long-term sustainability. (High confidence)
+◦
+[Shared Ownership] The central AATI team will play a supportive and coordination role, while overall management will rest with each government to establish legitimacy, commitment, and ownership. (High confidence)
+•
+Source: ATA Contract farming model_TASC Learning doc_v1_28.02.2025_ASG.pdf
+◦
+[Presidential Anchoring] Togo's ATA is placed under the supervision of the Presidency of the Republic, ensuring high-level political backing. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Clear Role Allocation Process] Key decisions include outlining a clear role allocation process for direction, project lead, and project team members within the ATA. (High confidence)
+•
+Source: ATI ACC overview_June2025.pdf
+◦
+[Secretariat for Transformation] The ATI serves as the secretariat of the Ethiopian Food Systems Transformation and plays a key coordination role in its implementation, involving various government bodies. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Influence from Political Backing] Delivery units derive their influence from concerted political sponsorship and access to relevant decision-makers rather than their formal authority. (High confidence)
+◦
+[Government Commitment Indicators] AATI assesses indicators like the importance of agriculture to the national economy and its inclusion in the country's development strategy to understand government commitment. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Ministerial Launch] The consultation process for establishing the ATO in Tanzania was launched by Minister Hussein Bashe and attended by government, development partners, and stakeholders, demonstrating high-level engagement. (High confidence)
+◦
+[Political Buy-in for AMP] The ATO in Tanzania participated in an AMP presentation to Members of Parliament, hosted by Ministers, to enhance political buy-in and resource mobilization. (High confidence)
+•
+Source: Khalid Bomba - presentation on Nodal Agency concept and Ethiopian ATA (2010 - 2020) - March 2025.pdf
+◦
+[Commitment to Technical Orientation] The Ethiopian Ministry of Agriculture's assurance to preserve ATA's technical and data-driven focus through leadership changes highlighted the value of maintaining foundational principles amidst transition. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Presidential Leadership] Togo's ATA was created with the President leading the effort, leveraging agriculture as the center of the 2025 roadmap, which facilitated buy-in. (High confidence)
+◦
+[Strong Political Buy-in] The success of Nodal Agencies relies on strong links to senior government, often reporting to a head of state, and high levels of authority with the ability to influence stakeholders. (High confidence)
+Weaknesses:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Political Intervention Risk] The political process, including changes in actors and priorities, is a key part of the political landscape that can lead to discontinuities in impact. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Interim Leadership] The original candidate for Togo's ATA CEO was unable to take the position, and the interim CEO (Naïm Mérimèche) only has a small proportion of his time for ATA, indicating a leadership gap. (High confidence)
+◦
+[SG Recruitment Issues] The initial recruitment call for the Secretary General was limited in qualified candidates, and there was uncertainty about the long-term role, which is much larger than part-time. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Ministerial Resistance] In Ghana, resistance in the Ministry of Agriculture for the establishment of a Delivery Unit could represent a considerable obstacle for its success. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Delayed Official Launch] In Tanzania, the Agricultural Master Plan (AMP) was handed over to the government in March 2024 but was not officially launched by year-end, limiting AATI’s ability to advance agricultural transformation efforts due to political processes. (High confidence)
+Opportunities:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Broad Buy-in] Establishing buy-in from multiple political actors (down to the country level) and non-state actors (business community, development partners) can ensure stable and broad support for the ATx approach. (High confidence)
+•
+Source: ATA Retreat Worksheet - April 2023_ Final
+◦
+[Formalized Decision-Making] Decisions on who will sign official documents for the ATA and the delineation of roles between Analytics Team and Project Delivery Teams are key points to be confirmed, which can formalize political-managerial balance. (High confidence)
+◦
+[Regular Reporting] Outline a clear decision-making process for undertaking projects and validating deliverables, including the frequency and content of reports to the Minister. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Strengthening PFADC Capacity] In Tanzania, AATI will support the operationalization of the governance structure of the Presidential Food and Agriculture Delivery Council (PFADC) and strengthen the Ministry of Livestock and Fisheries (MoLF) capacity for better coordination with the ATO. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Cross-Ministerial Buy-in] Buy-in from the Head of State and other Ministries (especially MoA) is necessary for the ATx agency to operate in new ways, including innovative financing, attracting high-performing staff, and cross-sectoral work. (High confidence)
+◦
+[Transition Support] TASC supported the DG on resource mobilization and partnerships, and provided early support for organizational strategy and development, which could ease political transitions. (High confidence)
+Threats:
+•
+Source: DU bluepring document2.pdf
+◦
+[Loss of Political Backing] Loss of political backing with the death of the PM in Ethiopia after a few years constrained the ATA's ability to provide support and monitor the execution of the agricultural transformation agenda. (High confidence)
+◦
+[Dependence on Central Authority] If the ATx is positioned within a high-level political office, its effectiveness can be highly dependent on the continued support of that office, making it vulnerable to political shifts. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Political Uncertainty] The decision to halt engagements with Kenya and re-evaluate in 2024, and the approach to Malawi ("no push nevertheless a line of communication shall be kept open") reflect the sensitivity to political conditions in partner countries. (High confidence)
+•
+Source: Sudan ALTA Learning Document.pdf
+◦
+[Political Instability] The coup in October 2021 stopped the creation of the Sudan ALTA, highlighting the significant risk political instability poses to ATx initiatives. (High confidence)
+◦
+[Internal Power Struggles] Power struggles within the transitional government due to differences between military and civilian leaders in preferred approaches posed a challenge to the ALTA's establishment. (High confidence)
+
+--------------------------------------------------------------------------------
+Dimension 7: Sustainability & Resilience
+Strengths:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Local Ownership Focus] The AATI focuses on building capability (digital and leadership) of local players and promoting long-term ownership to ensure sustainability and transferability of support structures. (High confidence)
+◦
+[Financial Independence Goal] National delivery units will require increasing funding from governments over time, with the successful ATA models expected to create internal demand, potentially making external funding obsolete in the long run. (High confidence)
+◦
+[Exit Planning] A detailed exit plan will be developed by the AATI leadership early on (within the first 24 months) to ensure readiness for transfer to another host organization after 5 years if optimal. (High confidence)
+•
+Source: AATI FAQ for IFAD EB Members FINAL.pdf
+◦
+[Sustainable Delivery Mechanisms] The AATI's goal is to build and coordinate effective and sustainable delivery mechanisms for agricultural transformation. (High confidence)
+◦
+[Independent ATA Goal] Countries will be selected based on their ability to manage their ATAs independently in the future, fostering long-term sustainability. (High confidence)
+•
+Source: ATI ACC overview_June2025.pdf
+◦
+[Catalyst for Sustainable Development] The ATI was established to catalyze sustainable development and transformation of the agriculture sector, with a vision for market-oriented agriculture that uses natural resources sustainably. (High confidence)
+•
+Source: ATI Annual_Report_2024_December-20.pdf
+◦
+[Permanent Institution] The Ethiopian ATI transitioned from an agency to an institute in December 2021, removing its initial time limit and establishing it as a permanent institution. (High confidence)
+◦
+[Focus on Livelihoods] The ATI's work centers on improving the livelihoods of smallholder farmers for improved income, inclusiveness, resilience, and sustainability. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Capacity Building for Continuity] A key factor for sustaining government support to agricultural transformation over time is the inclusion of teams specifically focused on institutional capacity building within delivery units. (High confidence)
+•
+Source: EB 2021-VBC-7-Request to establish AATI Trust Fund-FINAL (2).pdf
+◦
+[Mitigation Plan] A four-fold mitigation plan addresses the risk of unsustainable delivery, including time-bound funded positions, strong focus on capability building, annual support needs assessment, and increasing government budget share for national ATAs. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[African-Led Transition] AATI is building the foundation for its transition to an African-led institution by 2025, which will involve establishing a Transition Working Group to oversee the process. (High confidence)
+◦
+[Knowledge Management] Knowledge management and learning is a fundamental principle guiding AATI's support to governments, contributing to sustainable institutionalization of ideas. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Self-Initiative] A goal for ZAAPs by April 2025 is to solve problems without always needing to rely on advisors, promoting self-sufficiency. (High confidence)
+◦
+[Institutional Autonomy] The ATA aims to be independent of politics, with the authority and stature to be long-term without worry of government changes by 2030. (High confidence)
+Weaknesses:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Over-reliance on External Support] National ATAs may over-rely on support from central AATI teams and not sufficiently develop their own capabilities for sustainable continuity. (High confidence)
+◦
+[Risk of Discontinuity] Changes in political leadership (something the AATI cannot control) can create discontinuities that undermine the sustainability of impact. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[External Support Dependence] The sustainability of operations for the Ethiopian ATA was constrained by loss of political backing, implying reliance on specific political champions. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Project Document Pending] In Tanzania, the project document including workplan and budget is still pending finalization and review by the National Economic Planning commission, delaying operational handover and decentralization of responsibilities. (High confidence)
+Opportunities:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Wave of Delivery Mechanisms] The AATI envisions generating a wave of delivery mechanisms throughout Africa that will cascade successful operating models from one country to another, inducing a "sustainable chain-effect". (High confidence)
+◦
+[Local Ownership Mechanisms] The AATI ensures governments take ownership of the project from inception and builds mechanisms for continued support beyond the intensive in-country phase, including budgeting and technical support within the government process. (High confidence)
+◦
+[Climate Adaptation Mainstreaming] The AATI promotes flagship prioritization and delivery for climate resilience and sustainability, leveraging partners' experience and IFAD's climate finance initiatives. (High confidence)
+•
+Source: INV-006368_Progress Report_P3 - 2023.pdf
+◦
+[Climate Resilience Focus] The AATI is engaged in adapting African agriculture to climate change, promoting CSA-Hubs as coordination and delivery mechanisms for CSA strategies, enhancing resilience. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Learning & Documentation] A phased approach requires systematic learning and documentation of products and processes for hand-over, enabling easier scaling and quality maintenance for long-term sustainability. (High confidence)
+◦
+[Replication of Models] Success for ZAAPs includes achieving mechanization, managing land/inputs, receiving applications from buyers, and scaling to 200 ZAAPs at the same quality level, indicating replicability. (High confidence)
+Threats:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Political Leadership Changes] Changes in political leadership can create discontinuities that undermine the sustainability of impact despite the AATI's efforts to build consensus mechanisms. (High confidence)
+◦
+[Resource Constraints for Farmers] Interventions by ATAs focusing on market-oriented producers might not directly benefit poorer, resource-constrained farmers, potentially limiting inclusive transformation and overall sustainability of poverty reduction. (High confidence)
+•
+Source: FAO 10 Year Assessment of the Ethiopian ATA.pdf
+◦
+[Limited Market Integration] The low level of market integration among average smallholder farmers poses a risk to their ability to pay back credit for inputs from interventions like the IVS, affecting the sustainability of input uptake. (High confidence)
+◦
+[Food Security Trade-offs] There may be trade-offs in adopting certain interventions (e.g., switching to more commercially viable crops) that could impact food security and nutrition at the household level if not carefully managed. (High confidence)
+
+--------------------------------------------------------------------------------
+Dimension 8: Catalytic Impact
+Strengths:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Bridging Implementation Gap] The AATI aims to fill the gap between strategy formulation and implementation by building, supporting, and coordinating effective delivery mechanisms. (High confidence)
+◦
+[Three Primary Outcomes] The AATI addresses three primary outcomes: inclusive, efficient support to rural producers; improved government delivery capacity and evidence-based decision-making; and increased knowledge dissemination on successful models. (High confidence)
+◦
+[Flagship Focus] AATI focuses on providing institutional support for flagship implementation and delivery, including defining flagships, policy priorities, and designing/operationalizing delivery units. (High confidence)
+•
+Source: 2025_Updated AATI workplan_v5.05.05.25xlsx.pdf
+◦
+[Enhanced Rural Support] The AATI aims to deliver inclusive, efficient, effective, and impactful support to rural producers in flagship priority areas. (High confidence)
+•
+Source: AATI FAQ for IFAD EB Members FINAL.pdf
+◦
+[Policy Implementation] The AATI objective is to build sustainable delivery mechanisms that can implement policies to facilitate agricultural transformation and prioritize food systems transformation. (High confidence)
+•
+Source: ACC Year 5 (2016 E.C.) Annual Performance Report_CLEAN.pdf
+◦
+[ACC Program Impact] The Agricultural Commercialization Clusters (ACC) program works directly on strengthening institutional and delivery capacity across the agricultural value chain. (High confidence)
+◦
+[Mechanization Services Rollout] The Ethiopian ATI successfully rolled out mechanization services, delivering over 40 tractors to cooperative farming clusters and establishing eight Mechanization Service Centers (MSCs), serving over 34,000 farmers. (High confidence)
+◦
+[Youth Employment] The ADEY program engaged over 30,000 youth, fostering sustainable, youth-centered agricultural practices. (High confidence)
+•
+Source: AO 2 - ATA Orientation_vDec 2021.pdf
+◦
+[Systemic Problem Solving] The Ethiopian ATA's mandate is two-fold: identifying solutions to systemic bottlenecks and working with partners to effectively implement catalytic interventions across the country. (High confidence)
+◦
+[Flagship Program] The ACC is the ATI's flagship program, coordinating interventions across the value chain and implementation chain. (High confidence)
+•
+Source: ATA Contract farming model_TASC Learning doc_v1_28.02.2025_ASG.pdf
+◦
+[Increased Productivity and Income] Togo's ATA aims to develop and deliver services for smallholder farmers to increase both farm productivity and income. (High confidence)
+◦
+[Contract Farming Model] The ATA in Togo started a contract farming approach in 2023, delivering services to address urgent needs of 1,770 producers of maize, rice, soya, and cotton across 19 ZAAPs, leading to improved production. (High confidence)
+◦
+[High Reimbursement Rate] The 2023-24 campaign showed an 88% credit reimbursement rate, indicating successful financial management within the contract farming model. (High confidence)
+•
+Source: ATA to ATI timeline v2.pdf
+◦
+[Poverty Reduction] The formation of Ethiopia's ATA in 2010 catalyzed a transformation that saw 6 million people move out of poverty. (High confidence)
+◦
+[Direct Project Implementation] The ATA's proclamation was amended in 2016 to include direct project implementation, recognizing its capacity to lead transformation projects and flagships like ACCs. (High confidence)
+•
+Source: ATI Annual_Report_2024_December-20.pdf
+◦
+[Policy Solutions & Innovations] The ATI drives agricultural transformation by conducting studies, providing policy solutions, introducing innovations, fostering linkage and coordination, and extending implementation support. (High confidence)
+◦
+[Increased Productivity & Sustainability] Ethiopia's agricultural transformation aims to enhance productivity, sustainability, and resilience across the sector. (High confidence)
+◦
+[Food Security] The FARM project provided essential agricultural inputs to support farmers in conflict-affected regions, contributing to food security. (High confidence)
+◦
+[Market Access & Trade] ATI has enhanced market opportunities, fostered investment partnerships, and bolstered Ethiopia’s agro-processing sector by linking FPCs with investors and facilitating investment deals. (High confidence)
+•
+Source: Casestudy on ATA(I) Analytics Evolution_ 2024+RA Comments.pdf
+◦
+[Impactful Interventions] The ATA/I aims to build on learnings and make highly impactful interventions in its second phase (2016-2020). (High confidence)
+◦
+[Transformation Agenda Monitoring] The ATA assists deliverable owners in providing accurate reporting on developments related to the Agricultural Transformation Agenda and provides quarterly reports to the Transformation Council. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Focus on Change vs. Delivery] Agricultural Transformation DUs complement line ministries by providing focused attention on promoting change within agricultural programs and resolving issues when change is introduced. (High confidence)
+◦
+[Multi-Dimensional Engagement] Delivery units focused on transforming agriculture work on multi-dimensional change processes, addressing various aspects needed for growth. (High confidence)
+•
+Source: EB 2021-VBC-7-Request to establish AATI Trust Fund-FINAL (2).pdf
+◦
+[Bottleneck Removal] The Ethiopian ATA helped remove bottlenecks and improve links between producers, input markets, and agricultural services, with direct positive impacts on national GDP and poverty reduction. (High confidence)
+◦
+[Flagship Priority Identification] AATI aims to improve government capacity to identify flagship priorities for spurring inclusive, sustainable agricultural transformation and implement policies to address them. (High confidence)
+•
+Source: FAO 10 Year Assessment of the Ethiopian ATA.pdf
+◦
+[Productivity Gains] The Ethiopian ATA achieved many outcomes in input use, extension services, and agricultural technology, leading to productivity gains for certain priority crops and improved market orientation. (High confidence)
+◦
+[Increased Input Use] ATA interventions led to a significant increase in the likelihood of using improved seeds, organic, and chemical fertilizers, and agrochemicals for priority crop production. (High confidence)
+◦
+[Expanded Extension Services] Access to extension and advisory services by ATA’s beneficiary households expanded significantly (over 17 percentage points) due to ATA interventions. (High confidence)
+◦
+[Economy-Wide Impact] ATA interventions had economy-wide impacts beyond smallholder producers, including effects on agricultural growth, employment, people's income, and poverty reduction. (High confidence)
+•
+Source: INV-006368_Progress Report_P2_FV.pdf
+◦
+[Senegal Flagship Selection] AATI selected four flagship and priority programs in Senegal (PADAER II, PCAE/P for R, PDCVR, PDEPS) to support agricultural transformation. (High confidence)
+◦
+[Ghana ATDU Focus] AATI's objective in Ghana is to create an Agricultural Transformation Delivery Unit (ATDU) to accelerate transformation through enhanced tools and capacity, sustaining gains from PFJ and strengthening post-harvest management. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Delivery Team Support] The AATI's Delivery Team supports ATOs in visioning & strategy operationalization, institutional strengthening, and identifying/designing catalytic projects or flagship policies aligned to the strategic pillars. (High confidence)
+◦
+[Focus on Key Priorities] Sierra Leone's ATO workplan for 2025 focuses on establishing a farmer's registry, defining a livestock investment plan, establishing an Agricultural Finance Bank, developing the rice value chain, enhancing digital data systems, and strengthening resource mobilization. (High confidence)
+•
+Source: Introductory Presentation_ Ethiopia ATA-I learnings_ Redeat.pdf
+◦
+[Four Primary Objectives] The Ethiopian ATA designed the Agricultural Commercialization Clusters Program with four primary objectives: developing market-driven value chains in specific geographies, growing income by increasing productivity and profitability, generating marketable surplus, and creating on/off-farm jobs. (High confidence)
+•
+Source: Khalid Bomba - presentation on Nodal Agency concept and Ethiopian ATA (2010 - 2020) - March 2025.pdf
+◦
+[Sectoral Shift] The Ethiopian ATA shifted the government's perspective on agriculture from a production problem to a holistic systems approach, elevating its status among decision-makers and investors. (High confidence)
+◦
+[Increased Output Market Share] The ATA lifted the share of output marketed, for example, by 16 percentage points for teff. (High confidence)
+•
+Source: One pager - AATI with countries - June 2023.pdf
+◦
+[Vision & Mission] The AATI aims to support governments to drive inclusive and sustainable agricultural transformations by developing and enabling local delivery mechanisms to improve implementation of strategic agricultural initiatives, alleviating poverty, promoting food security and strengthening climate resilience. (High confidence)
+•
+Source: Sudan ALTA Learning Document.pdf
+◦
+[Focus on Systems Change] The Sudan ALTA's focus areas were chosen to offer clear opportunities for transformation beyond incremental improvements, aiming for systems change. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Catalytic Change] Transformation is defined as a focused effort on changing systems and processes that lead to positive and definitive outcomes, emphasizing a systems approach and scale of impact beyond marginal gains. (High confidence)
+◦
+[Phased Service Delivery] The ATA has a phased approach to service delivery, initially building products and services (Phase One) and then scaling them with partners and focusing on capacity building (Phase Two). (High confidence)
+Weaknesses:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Unclear Flagship Prioritization] Countries often have strong agricultural strategies, but prioritizing and defining specific, well-resourced flagships can be challenging. (High confidence)
+•
+Source: DU bluepring document2.pdf
+◦
+[Limited Accountability for Decisions] While ATAs lead delivery, they are primarily advisory bodies, and their influence is derived from political backing rather than decision-making power, potentially limiting their direct authority over outcomes. (High confidence)
+Opportunities:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Expanded Commodity Support] The AATI plans to expand support to more commodities (horticulture & livestock) and geographies beyond initial focus. (High confidence)
+◦
+[Knowledge Hub Creation] The AATI central team will coordinate and support national ATAs to ensure common design principles are replicated and best practices are shared, creating a knowledge hub of successful approaches and tools. (High confidence)
+•
+Source: ATI Annual_Report_2024_December-20.pdf
+◦
+[Diversified Initiatives] ATI plans to expand efforts in digital agriculture, livestock commercialization, Climate Smart Agriculture (CSA), and job creation across agricultural value chains. (High confidence)
+•
+Source: Casestudy on ATA(I) Analytics Evolution_ 2024+RA Comments.pdf
+◦
+[Scaling Effective Approaches] The Ethiopian ATA/I aims to work with MoA and partners to scale effective approaches and transfer most roles to MoA in its transition phase (2026-2030). (High confidence)
+◦
+[Sector-Wide Impact Estimates] The ATI provided impact estimates on priority crops and select agricultural systemic priority areas, indicating a capability to measure and communicate broad impact. (High confidence)
+•
+Source: Copy of Partage d_Experiences_MAEDR-ATA_5.8.2024.pdf
+◦
+[Deepening Services] In 2024, the ATA in Togo plans to deepen services for pilot ZAAPs around mechanization, extension, and irrigation, expanding beyond initial offerings. (High confidence)
+•
+Source: FAO 10 Year Assessment of the Ethiopian ATA.pdf
+◦
+[Strategic Guidance] The FAO evaluation aims to inform the future work of the ATA for the next ten years, in terms of support and investments that work best for the agricultural sector and smallholders. (High confidence)
+◦
+[Policy Influence] The ATA's work, particularly studies, influences the design and policy orientation of agricultural projects. (High confidence)
+•
+Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
+◦
+[Capacity Building Playbook] A Playbook is being developed to offer customized assistance to ATOs in adopting the "deliverology" approach to strategy implementation. (High confidence)
+•
+Source: TASC Presentation March 27_ Dutch Learning Session.pdf
+◦
+[Expansion to New ZAAPs] The ATA in Togo plans to scale up to 60 ZAAPs, expanding contract agriculture interventions and deepening services. (High confidence)
+Threats:
+•
+Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
+◦
+[Isolation of Project Implementation] If the AATI primarily focuses on project implementation without sufficiently driving policy reforms, it might lead to isolated successes rather than broader transformation. (Medium confidence)
+•
+Source: FAO 10 Year Assessment of the Ethiopian ATA.pdf
+◦
+[Disproportionate Gains] The impact of ATA interventions on yields can be heterogeneous, with larger gains observed among farmers operating at greater scale and disproportionate gains by male-headed households over female-headed households in some areas, risking less inclusive transformation. (High confidence)
+◦
+[Limited Reach to Poorer Farmers] ATA interventions focus on more market-oriented producers, with the assumption that poorer farmers would directly benefit, but a substantial scope remains for further expansion among those not using modern inputs. (High confidence)

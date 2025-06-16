@@ -22,7 +22,7 @@ if not API_KEY:
     raise ValueError("Missing GEMINI_API_KEY environment variable.")
 genai.configure(api_key=API_KEY)
 
-RAW_CSV = "Desk Research Matrix - Combined Matrix.csv"
+RAW_CSV = "NotebookLM_Combined_Matrix.csv"
 OUTPUT_DIR = "outputs"
 
 # --- Core Data Functions ---
@@ -180,9 +180,16 @@ def plot_swot_quadrant_chart(df_dimension, dimension_name, filename):
         print(f"Error saving final quadrant chart: {e}")
 
 def plot_swot_summary_grid_by_source(df, filename):
-    sources = {'All Sources': df, 'Source: KII': df[df['Source'] == 'KII'], 'Source: Literature Review': df[df['Source'] == 'Literature Review'], 'Source: AATI-TASC Synthesis': df[df['Source'] == 'AATI-TASC Synthesis']}
     swot_order = ["Strengths", "Weakness", "Opportunity", "Threat"]
     pivot_tables = {}
+
+    # Always include 'All Sources'
+    sources = {"All Sources": df}
+    unique_sources = df['Source'].dropna().unique()
+    for src in unique_sources:
+        filtered_df = df[df['Source'] == src]
+        sources[src] = filtered_df
+
     max_y = 0
     for title, source_df in sources.items():
         if not source_df.empty:
@@ -194,10 +201,17 @@ def plot_swot_summary_grid_by_source(df, filename):
             pivot_tables[title] = pivot
         else:
             pivot_tables[title] = pd.DataFrame()
+
     y_limit = max_y * 1.15 if max_y > 0 else 10
-    fig, axes = plt.subplots(2, 2, figsize=(20, 16), sharey=True)
+    n_sources = len(pivot_tables)
+    n_cols = 2
+    n_rows = (n_sources + 1) // n_cols
+
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=(20, 8 * n_rows), sharey=True)
     axes = axes.flatten()
+
     swot_colors = ['#2ca02c', '#ff7f0e', '#1f77b4', '#d62728']
+
     for i, (title, pivot_data) in enumerate(pivot_tables.items()):
         ax = axes[i]
         if not pivot_data.empty:
@@ -211,14 +225,25 @@ def plot_swot_summary_grid_by_source(df, filename):
             ax.text(0.5, 0.5, 'No Data Found', ha='center', va='center', fontsize=16, alpha=0.5, transform=ax.transAxes)
             ax.spines[['top', 'right', 'bottom', 'left']].set_visible(False)
             ax.set_xticks([]); ax.set_yticks([])
+
         ax.set_title(title, fontsize=16, pad=10)
-        ax.set_xlabel(''); ax.tick_params(axis='x', labelrotation=45, labelsize=11)
+        ax.set_xlabel('')
+        ax.tick_params(axis='x', labelsize=11)
+        ax.set_xticklabels(ax.get_xticklabels(), ha='right', rotation=45)
         ax.set_ylim(0, y_limit)
-    handles, labels = axes[0].get_legend_handles_labels() if not pivot_tables['All Sources'].empty else ([], [])
+
+    # Remove unused axes
+    for j in range(i + 1, len(axes)):
+        fig.delaxes(axes[j])
+
+    # Legend
+    handles, labels = axes[0].get_legend_handles_labels() if not pivot_tables["All Sources"].empty else ([], [])
     if handles:
         fig.legend(handles, labels, title='SWOT Category', fontsize=12, loc='upper right', bbox_to_anchor=(0.98, 0.98))
+
     fig.suptitle('SWOT Item Count by Dimension and Source', fontsize=22, y=0.99)
     plt.tight_layout(rect=[0, 0, 1, 0.96])
+
     if filename:
         plt.savefig(filename, dpi=300)
     plt.close()
