@@ -40,8 +40,11 @@ def codify_swot(df):
             for item in items:
                 if item.strip():
                     codified_rows.append({
-                        "Source": row["Source"], "Dimension": row["Dimension"],
-                        "SWOT": category, "Text": item.strip()
+                        "Source": row["Source"],
+                        "Dimension": row["Dimension"],
+                        "SWOT": category,
+                        "Text": item.strip(),
+                        "DocSources": row.get("DocSources", "")
                     })
     return pd.DataFrame(codified_rows)
 
@@ -101,7 +104,7 @@ def apply_consolidation_map(codified_df, consolidation_map_df):
     consolidation_map_df = consolidation_map_df.rename(columns={'Code': 'Original_Code'}, errors='ignore')
     final_df = codified_df.merge(consolidation_map_df, left_on='Code', right_on='Original_Code', how='left')
     final_df['Code'] = final_df['Consolidated_Code'].fillna(final_df['Code'])
-    return final_df[['Source', 'Dimension', 'SWOT', 'Text', 'Code']]
+    return final_df[['Source', 'Dimension', 'SWOT', 'Text', 'Code','DocSources']]
 
 # --- Visualization Functions ---
 def plot_swot_quadrant_chart(df_dimension, dimension_name, filename):
@@ -214,6 +217,22 @@ def plot_swot_summary_grid_by_source(df, filename):
 
     for i, (title, pivot_data) in enumerate(pivot_tables.items()):
         ax = axes[i]
+
+        # Get the matching source_df *before* plotting
+        source_df = sources[title]
+
+        # 🆕 Count number of unique DocSources (split by ';')
+        all_docs = set()
+        if 'DocSources' in source_df.columns:
+            for docs in source_df['DocSources'].dropna():
+                for d in str(docs).split(';'):
+                    d = d.strip()
+                    if d:
+                        all_docs.add(d)
+
+        doc_count = len(all_docs)
+        count = source_df.shape[0]
+
         if not pivot_data.empty:
             pivot_data.plot(kind='bar', stacked=True, ax=ax, color=swot_colors, edgecolor='white', linewidth=0.5, legend=False)
             ax.set_ylabel('Number of Codes', fontsize=12)
@@ -226,7 +245,7 @@ def plot_swot_summary_grid_by_source(df, filename):
             ax.spines[['top', 'right', 'bottom', 'left']].set_visible(False)
             ax.set_xticks([]); ax.set_yticks([])
 
-        ax.set_title(title, fontsize=16, pad=10)
+        ax.set_title(f"{title}", fontsize=16, pad=10)
         ax.set_xlabel('')
         ax.tick_params(axis='x', labelsize=11)
         ax.set_xticklabels(ax.get_xticklabels(), ha='right', rotation=45)

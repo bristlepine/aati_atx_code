@@ -141,7 +141,6 @@ Source: INV-006368_Progress Report_P4 - 2024 (00B)_final.pdf
 Source: TASC Presentation March 27_ Dutch Learning Session.pdf
 ◦
 [Political Volatility] Political buy-in and stability are crucial for the success of the ATA model, and unstable political environments can undermine its effectiveness, as observed in Sudan. (High confidence)
-
 --------------------------------------------------------------------------------
 Dimension 2: Financing
 Strengths:
@@ -228,7 +227,6 @@ Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
 Source: TASC Presentation March 27_ Dutch Learning Session.pdf
 ◦
 [Limited Initial Funding] Resource mobilization was not an initial priority for the Ethiopian ATA, leading to smaller activities designed without donor dependence, which could limit scale. (High confidence)
-
 --------------------------------------------------------------------------------
 Dimension 3: Institutional Anchoring
 Strengths:
@@ -331,7 +329,6 @@ Source: 3. IFAD Investment Document for Gates Foundation_v106 (1).docx.pdf
 Source: DU bluepring document2.pdf
 ◦
 [Sub-National Exclusion] AATI will not consider positioning Delivery Units at the sub-national level as a design option, potentially limiting reach to where much of public sector support is undertaken. (High confidence)
-
 --------------------------------------------------------------------------------
 Dimension 4: Stakeholder Coordination
 Strengths:
@@ -442,7 +439,6 @@ Source: DU bluepring document2.pdf
 Source: TASC Presentation March 27_ Dutch Learning Session.pdf
 ◦
 [Private Sector Disengagement] The Togo ATA's Contract Agriculture model aimed to facilitate private sector engagement, but challenges included risk perception from the agricultural sector, limited numbers of local buyers, and insufficient time to identify buyers. (High confidence)
-
 --------------------------------------------------------------------------------
 Dimension 5: Analytics
 Strengths:
@@ -553,7 +549,6 @@ Source: Copy of ATA_Rapport_Annuel_2023_Draft One _24-Jan (4).pdf
 [Input Misuse due to Lack of Training] Inappropriate use of herbicides due to lack of communication and training by CTGEA was identified as a challenge related to input provision and advisory support. (High confidence)
 ◦
 [Poor Data Collection] Challenges in ZAAP governance included lack of transparent input management system, difficulties in collecting and mobilizing samples, and poor quality data after delivery. (High confidence)
-
 --------------------------------------------------------------------------------
 Dimension 6: Political-Managerial Balance
 Strengths:
@@ -654,7 +649,6 @@ Source: Sudan ALTA Learning Document.pdf
 [Political Instability] The coup in October 2021 stopped the creation of the Sudan ALTA, highlighting the significant risk political instability poses to ATx initiatives. (High confidence)
 ◦
 [Internal Power Struggles] Power struggles within the transitional government due to differences between military and civilian leaders in preferred approaches posed a challenge to the ALTA's establishment. (High confidence)
-
 --------------------------------------------------------------------------------
 Dimension 7: Sustainability & Resilience
 Strengths:
@@ -749,7 +743,6 @@ Source: FAO 10 Year Assessment of the Ethiopian ATA.pdf
 [Limited Market Integration] The low level of market integration among average smallholder farmers poses a risk to their ability to pay back credit for inputs from interventions like the IVS, affecting the sustainability of input uptake. (High confidence)
 ◦
 [Food Security Trade-offs] There may be trade-offs in adopting certain interventions (e.g., switching to more commercially viable crops) that could impact food security and nutrition at the household level if not carefully managed. (High confidence)
-
 --------------------------------------------------------------------------------
 Dimension 8: Catalytic Impact
 Strengths:

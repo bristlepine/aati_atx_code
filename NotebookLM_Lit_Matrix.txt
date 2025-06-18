@@ -1,0 +1,553 @@
+Dimension 1: Governance Strengths Source: Boettiger et al 2017.pdf
+•
+[Government Commitment] Countries committed to agricultural transformation will increase spending to drive transformation. The head of state and other top leaders showing high commitment to transformation is necessary for true change. Agricultural policy driven by evidence more than politics is crucial.
+•
+[Effective Plan Building Blocks] An agricultural plan that has several basic building blocks is a critical component for effectiveness.
+•
+[Policy Stability] Demonstrated commitment to policy stability is critical to support agricultural transformation.
+•
+[High Political Priority] In Ethiopia, agricultural transformation goals were already a high priority for the government in 2000, and this shifted to high performance by 2005. Leadership was able to refocus on Agricultural Development Led Industrialization (ADLI) after the Eritrean–Ethiopian War, and the subsequent Prime Minister continued to emphasize agriculture as a key driver.
+•
+[Plan Quality Improvement] The quality of Ethiopia's agricultural development plan, including clearer priorities, measurable targets, cost estimates, and specific gender strategies, jumped in 2002.
+•
+[National-Local Alignment] The Agricultural Transformation Agency (ATA) in Ethiopia enabled a clearer and more effective process to align central and local agricultural strategies.
+•
+[Inter-Ministerial Coordination] The ATA increased the capacity of ministries to coordinate agricultural policies in Ethiopia. Expert opinion on ministerial coordination capacity was low in the early 2000s but improved with recent interministerial coordination meetings.
+Source: Diriba 2018.pdf
+•
+[Integrated Approach] Implementing agricultural and rural transformation cannot take place without an integrated and synergistic linkage with other sectors of the economy (agriculture, manufacturing, services, and urbanization).
+•
+[Federal-State Division] Federal and Regional State guidance is critical to establish linkages among the principal sectors, with agriculture serving as "primus inter pares". Governments must craft a carefully thought-through division of labor to avoid duplication of functions.
+•
+[Political Will Needed] Political will is needed to establish effective institutional arrangements and allocate an adequate budget for a truly pluralistic seed sector development.
+Source: Minot el al 2022.pdf
+•
+[Policy Shift] The Ethiopian government transitioned its agricultural policy and interventions from an emphasis on increased productivity for poverty reduction to a more market-oriented approach, seeking to facilitate agricultural commercialization and diversification into high-value crops to raise income and improve rural household welfare.
+•
+[Dedicated Strategy] The government launched the Agricultural Development Led Industrialization (ADLI) strategy in 1993, with an emphasis on increasing agricultural productivity and replacing the command economy with a market-driven system. This was followed by other strategies like PASDEP and two Growth and Transformation Plans (GTP I and GTP II), and a new 10-year Development Plan (2021-2030).
+•
+[Major Interventions] Major interventions include the Agricultural Growth Programs (AGP1 and AGP2), the Agricultural Commercialization Cluster (ACC) initiative, and the Productive and Safety Net Program (PSNP).
+•
+[Clear, Consistent Policy] Agricultural transformation requires clear, consistent, and long-term policies.
+•
+[Inter-Ministerial Collaboration] Different ministries and governmental bodies must work together to create an enabling environment for agricultural transformation.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Integration & Coordination] Agricultural transformation requires a new approach to policy making and implementation, entailing a government search for greater integration and coordination.
+•
+[Partnership Approach] The process is characterized by greater partnership between federal, state, and local governments, economic entities, private industry, and other community groups.
+•
+[Subsidiarity] Nigeria's Agricultural Transformation Agenda (ATA) principles include 'subsidiarity', which touches every part of the country's agricultural value chain simultaneously.
+•
+[Bottom-Up Accountability] The ATA focuses on a bottom-up approach to ensure accountability and delivery of results in the entire program.
+•
+[Presidential Leadership] An Agricultural Transformation Implementation Council has been initiated and headed by the president to facilitate the government's vision.
+•
+[Clear, Consistent Policy] There must be clear, consistent, and long-term policies to increase and sustain investors’ confidence in the sector.
+•
+[Inter-Ministerial Work] Different ministries and governmental bodies must work together to create an enabling environment.
+Weaknesses Source: Boettiger et al 2017.pdf
+•
+[Low Leadership Support] Leaders often lacked transformation training, access to good analytics, and a mentor network.
+•
+[Stakeholder Misalignment] Key stakeholders at the national level (ministries, private sector, civil society) often fail to come together and align priorities. There is also a vertical misalignment of different layers of government (national, state, and local), putting transformation progress at risk.
+•
+[Hard-to-Measure Shifts] Readiness for transformation depends on hard-to-measure shifts in political commitment and institutional innovation.
+•
+[Civil Service Weakness] Ethiopia showed weak civil-service effectiveness scores across all periods, though the ATA helped bridge gaps.
+•
+[Private Sector Coordination Challenges] There have been historical challenges incorporating the private sector in Ethiopia, though a coordination mechanism is now in place.
+Source: Diriba 2018.pdf
+•
+[Lack of Commitment] There is a lack of sustained and intergenerational commitments to transformation, as well as a lack of effective and accountable organizational capacity. Leaders have often been preoccupied with other issues, making only short-term responses to agricultural development and neglecting radically different possibilities, indicating a recurrent crisis of vision. There has been a total lack of intergenerational leadership recognizing the limits of traditional farming techniques and the pitiful living conditions of rural populations.
+•
+[Constitutional Constraints] Prevailing property rights create legal and constitutional obstacles, leading to land fragmentation and persistently declining land per capita.
+•
+[Organizational Incoherence] Ethiopia's agricultural organizations and multiple actors are disorganized and incoherent in their approach to technological challenges, showing no system of coordination and collaboration.
+•
+[Bureaucratic Barriers] Centralized, bureaucratic, and lengthy planning, production, and distribution of certified seed makes timely access to seeds difficult.
+•
+[Political Control Preference] The government often wants to implement everything related to agricultural development itself, with organizational leaders feeling they "must deliver inputs, including certified seeds, to farmers" to maintain strong links with and control farmers.
+•
+[Sidelined Alternatives] The government has sidelined alternative development pathways (e.g., farmer-based seed systems, private sector participation) despite policies on paper supporting them.
+•
+[Bias and Bad Governance] Biased attitudes and bad governance, including legal hurdles in the seed sector, marginalize other alternatives and actors, such as farmer-based seed system innovation and private sector participation.
+Source: Jaernberg et al 2018.pdf
+•
+[Decoupled Issues] Current policies largely decouple natural resource management from agricultural production, seeing them as separate issues with different causes, consequences, and solutions. This is reflected in the institutional structures, with the Ministry of Agriculture and Natural Resources (MoANR) divided into two general directorates focused on agricultural production and natural resource management, respectively.
+•
+[Top-Down Approach] The agricultural extension system operates in a top-down manner and tends to promote standardized "packages," usually focused on chemical fertilizer, improved seed, and credit.
+•
+[Rigid Structures] The general institutional context in Ethiopia is characterized by strong government domination and rigid structures.
+•
+[Capacity Constrained] The MoANR is recognized to be capacity-constrained, with major human resources gaps in staff numbers, qualification, and motivation.
+•
+[Limited Farmer Participation] The top-down extension system means that sustainable intensification approaches often need to be adapted to specific contexts, but the system is not designed for this, potentially impairing quality.
+•
+[Regime Filter] The dominant regime maintains the power to filter which of the green niche actors’ approaches are scaled, and is unlikely to scale approaches that fundamentally deviate from its own narrative about agricultural development.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Policy Inconsistency] Past agricultural reforms in Nigeria have been plagued by a lack of continuity, consistency, and commitment to agreed policies, programs, and projects, as well as an absence of a long-term perspective. Many good policies have had no effect due to policy instability/inconsistency, policy somersault, lack of policy transparency, poor coordination, poor implementation, and mismanagement of policy instruments.
+•
+[Weak Rule of Law] Nigeria's weak rule of law is a significant weakness.
+•
+[Corruption] A high level of corruption in the system is a weakness. Corruption can retard progress through diversion of public funds into private pockets and inputs meant for farmers into the hands of unintended beneficiaries.
+Opportunities Source: Minot el al 2022.pdf
+•
+[Policy Direction] Farmers should be given guidance and training on how to make decisions about commercialization, rather than specific instructions on which crops to grow and sell.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Investment Funds] There are opportunities to secure abundant investment funds for the Agricultural Transformation Agenda.
+Threats Source: Jaernberg et al 2018.pdf
+•
+[Political Turnover] Political turnover is an external risk that could undermine ATx models.
+•
+[Competing Agendas] Competing agendas are external risks that could undermine ATx models.
+Dimension 2: Financing Strengths Source: Boettiger et al 2017.pdf
+•
+[High Government Expenditure] Countries committed to agricultural transformation will increase spending to drive transformation. Ethiopia showed moderate performance in government expenditure on agriculture in 2000.
+•
+[Budget Disbursement Capacity] High percentage of agricultural budget disbursed indicates that countries committed to transformation follow through on budgetary commitments. Ethiopia showed good capacity for disbursement, exceeding targets for extension services and fertilizer distribution, with over 95% of the budget disbursed in 2013.
+•
+[Quality of Expenditure] A high percentage of the budget spent on enablers such as infrastructure, R&D, and building human capital facilitates transformation more than subsidies.
+Source: Minot el al 2022.pdf
+•
+[Donor Funding] The Ethiopia Agricultural Transformation Agency (ATA) was initially funded by the Bill and Melinda Gates Foundation and later attracted support from other international development organizations.
+•
+[Innovative Financing] Deregulation of seed and fertilizer sectors and innovative financing for agriculture are necessary conditions for a good agricultural transformation.
+•
+[Public Investment] Public investment of at least 10% of the country's annual budget is needed for a successful agricultural transformation.
+•
+[Credit & Incentives] Lending policies that encourage the purchase of machinery and increases in land holding sizes are important (Thailand example). Supportive fiscal policies (lower taxes on inputs, equipment) and lower cost credit can stimulate private investment.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Venture Capital Fund] The Nigerian Seed Venture Capital Fund has been established with the goal of increasing hybrid seed use from 8,000 metric tonnes to 1,000,000 metric tonnes per year.
+•
+[Risk Sharing System] The Nigeria Incentive-Based Risk Sharing System for Agricultural Lending (NIRSAL) has been introduced to de-risk agricultural financing, mitigate impacts of natural disasters, and facilitate low-interest credit to farmers through commercial banks.
+•
+[Input Subsidy] The Growth Enhancement Support Scheme (GES) was approved with N30 billion to make improved inputs available to small-scale farmers at a 50% subsidy, utilizing an electronic wallet system.
+Weaknesses Source: Boettiger et al 2017.pdf
+•
+[Expenditure Quality Data Gap] For Ethiopia, historical data on how much of the agricultural budget was spent on transformation enablers (like research and infrastructure versus subsidies) was not available.
+Source: Diriba 2018.pdf
+•
+[Credit Access] Lack of agricultural and rural financial and credit facilities is an obstacle to transformation. Financial services are limited and largely inaccessible to the vast majority of farmers.
+•
+[Foreign Currency Access] Lack of priority access to foreign currencies to import agricultural inputs and machinery creates a vicious cycle.
+•
+[Insufficient Allocation] Financial support for community-based plant genetic resource management projects was much less (about USD 5 million) compared to the funding that formal seed system development received (over USD 22 million) over a 10-year period.
+Source: Minot el al 2022.pdf
+•
+[Capital Costs] Capital costs can be an obstacle to some types of agricultural commercialization, particularly for high-value crops like vegetables which may involve large fixed costs.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Insufficient Funding] Low government investment in the agricultural sector (less than 3% of the annual budget since 2003) is a weakness, falling short of the government commitment at Maputo of a 10% target.
+•
+[Declining Investment] The declining value of total credit to agriculture and declining domestic and foreign investment in agriculture are capable of hindering the full benefits of agricultural transformation.
+Opportunities Source: Minot el al 2022.pdf
+•
+[Investment Funds] There are opportunities to secure abundant investment funds.
+Dimension 3: Institutional Anchoring Strengths Source: Boettiger et al 2017.pdf
+•
+[Autonomous Agency Creation] The creation of the Agricultural Transformation Agency (ATA) in 2010 streamlined coordination of transformation activities and increased the talent pool. The ATA provided a better foundation on which to build the right policies and investments for agricultural transformation.
+•
+[Foundational Shift] The critical importance of the ATA stands out as shifting foundational political, institutional, and organizational aspects in Ethiopia's early stages of transformation.
+Source: Minot el al 2022.pdf
+•
+[Semi-Autonomous Agency] The Ethiopia ATA is described as a semi-autonomous development agency with a mandate to accelerate agricultural transformation.
+•
+[Cluster-Based Strategy] The Agricultural Commercialization Cluster (ACC) initiative creates geographic clusters of primary agricultural commodities designed to support increasing production and productivity while better integrating commercialization activities.
+•
+[Infrastructure Investment] Successful agricultural transformation requires the development of both "hard infrastructure" (e.g., roads, irrigation) and "soft infrastructure" (e.g., human capital, institutions).
+•
+[Incentive Structure] Changing the incentive structure as part of a dedicated sectoral and fiscal policy strengthens research, extension education, and physical and institutional infrastructure for sustainable agricultural transformation.
+Weaknesses Source: Diriba 2018.pdf
+•
+[Government Crowding Out] Government crowding out the private sector leadership is an obstacle to transformation. Heavy government presence may have slowed the rise of the private sector in Ethiopia.
+•
+[Lack of Responsible Org] There is no single organization (including the Ministry of Agriculture, ATA, or Ethiopian Agricultural Business Corporation) directly responsible for, or dedicated to, supporting agricultural mechanization or rural transformation.
+•
+[Path Dependency] Agricultural modernization path dependencies and incumbent powers for top-down control of farmers have contributed to the lack of inclusive and equitable seed sector development in Ethiopia.
+•
+[State Control Motive] The regime's predominant focus on supplying agricultural inputs, including certified seeds, through public institutions is linked to its instrument for securing political control of rural constituencies.
+•
+[Developmental State Overriding] The developmental state model in Ethiopia overrides donors’ neoliberal conditionalities to implement a competitive free market economy.
+Source: Jaernberg et al 2018.pdf
+•
+[Regime Dominance] The regime refers to the most 'dominant' configuration of actors, structures, and practices in the social-ecological system.
+•
+[Authoritarian Setting] Agency is situated in social structure and context, and understanding this interplay is particularly important in authoritarian settings such as Ethiopia.
+•
+[Policy Inflexibility] The dominant regime maintains the power to "filter" which niche approaches are scaled, and is unlikely to scale approaches that fundamentally deviate from its own narrative about agricultural development.
+Source: Mulesa 2021.pdf
+•
+[No Corporate Seed Regime] Ethiopia's unique historical patterning means the first colonial seed regime never took hold, and the third corporate seed regime (related to biotechnology and intellectual property rights) has never been anchored in its formal seed system, leading to seed system development remaining government-led.
+•
+[Path Dependency] Agricultural modernization path dependencies have contributed to the lack of inclusive and equitable seed sector development.
+•
+[State Control Motive] The regime's predominant focus on supplying agricultural inputs through public institutions is linked to its instrument for securing political control of rural constituencies throughout Ethiopia.
+•
+[Developmental State Overriding] The developmental state model has effectively overridden donors' neoliberal conditionalities aimed at implementing a competitive free market economy.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Raw Commodity Export] Nigeria mainly provides raw agricultural commodities to world markets rather than being involved in processing/value addition.
+•
+[Local Input Production] Modern inputs used in agricultural production are often not produced locally, making the country's agricultural sector more import-intensive (e.g., imported fertilizers).
+•
+[Backward Integration Withdrawal] The increasing rate of withdrawal of manufacturing companies from backward integrated agricultural ventures is not a good signal for the survival of the ATA.
+Opportunities Source: Mulesa 2021.pdf
+•
+[Youth Protest Influence] Widespread youth protest between 2015 and 2018 brought a "reformist" Prime Minister (Abiy Ahmed) to power, leading to optimism about liberalization and privatization of Ethiopia’s agri-food system, including the seed sector.
+Dimension 4: Stakeholder Coordination Strengths Source: Boettiger et al 2017.pdf
+•
+[Cross-Sector Consultation] A consultation process across government, donors, and the private sector is a key enabler of agricultural transformation.
+•
+[Improved Consultation] In Ethiopia, the Agricultural Transformation Agency (ATA) improved the consultation process across government, donors, and the private sector.
+Source: Minot el al 2022.pdf
+•
+[Partnership Framework] The Agricultural Transformation Agenda (ATA) in Nigeria involves working within a framework of strategic partnerships with the private sector, civil society, and particularly farmers.
+•
+[Private Agents Role] Private-sector agents such as input suppliers, buyers, or both have several roles in agricultural transformation, typically having access to capital and organizational know-how and being able to link smallholder farmers to markets effectively. These agents are very important and need policy support and massive public investments to create an enabling environment.
+Source: Mulesa 2021.pdf
+•
+[NGO Influence] Joint project implementation and documentation work among NGOs (local and international) and a national institution (Ethiopian Biodiversity Institute - EBI) influenced the government to recognize farmers’ seed systems in Ethiopia.
+•
+[Coalitions for Change] Diverse coalitions of actors have promoted alternative pathways to seed system development, including proponents of private-led formalization, farmer-based localization, and community-based integration.
+•
+[Multi-Stakeholder Process] The Pluralistic Seed System Development Strategy (PSSDS) in Ethiopia was the result of an externally funded intensive training program based on a multi-stakeholder process approach, which played a catalytic role by bringing diverse seed sector actors together.
+•
+[Community-Based Production] The growth of community-based seed production and marketing (through Seed Producer Cooperatives - SPCs) is a motivating factor and source of inspiration for inclusive and equitable seed sector development. SPCs and community seed banks have contributed to the diversification of the country's seed systems regarding farmers’ choice of crops, varieties, and seed sources.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Partnership Framework] Nigeria's ATA involves working within a framework of strategic partnerships with the private sector, civil society, and particularly farmers.
+•
+[Private Sector Focus] The ATA is designed to make the agricultural sector a business project through private investment in the sector.
+•
+[Business Development Services] There is a need for more business development services to support farmers and help them set up and manage cooperatives and small-scale processing plants.
+•
+[“Outgrower” Program] Morocco achieved a certain level of success in agricultural transformation through an “outgrower” program that revolves around a nucleus farm, facilitating access to inputs (loans, seed, advisory services) for smallholders in return for marketing their output.
+•
+[Farmer-Manufacturer Contracts] In China, many commercial chains involve contracts between the farmer and manufacturer, where technical support is provided by the company to the farmer without donor intervention.
+Weaknesses Source: Boettiger et al 2017.pdf
+•
+[Stakeholder Misalignment] Key stakeholders at the national level (including leaders from different ministries, the private sector, and civil society) often fail to align priorities in a detailed way. There is also a vertical misalignment of different layers of government (national, state, and local), which can put the progress of transformations at risk.
+Source: Diriba 2018.pdf
+•
+[Organizational Incoherence] Political authorities, development practitioners, researchers, technologists, businesses, and entrepreneurs in Ethiopia offer no system of coordination and collaboration to help deal with the massive obstacles facing farmers.
+•
+[Power Asymmetry] Asymmetric power relations around seeds, involving the production and regulation of seeds, limit farmers’ political and economic participation and can weaken state political interests.
+Source: Jaernberg et al 2018.pdf
+•
+[Limited Non-State Actor Space] Non-state actors have very limited political space in Ethiopia. The NGO sector is strongly regulated, restricted from engaging in advocacy, faces cumbersome registration processes, and has strict standards for spending.
+•
+[Marginalized Actors] Few options are available for niche actors seeking support for their ideas, particularly for ideas that challenge the government. There is a general lack of influential actors outside of government.
+•
+[Loss of Control] When scaling their innovations through regime structures, green niche actors to a certain degree lose control over the process, which may impair the quality of implementation. Scaling more integrated approaches through regime structures primarily adapted to disseminate external inputs constitutes a challenge.
+•
+[Focus on Scalable] The strategy of government collaboration leads some green niche actors towards focusing on approaches and technologies that can be easily scaled through the extension system, at the expense of approaches that do not lend themselves as easily to the technology-focused, one-size-fits-all logic.
+•
+[Insertion vs. Mobilization] Green niche actors are clearly pursuing an "insertion" strategy (introducing new ideas in existing spaces by adapting to dominant rules) rather than a "mobilization" strategy (challenging dominant practices and power relations).
+Source: Minot el al 2022.pdf
+•
+[Cooperative Role Limited] Although cooperatives are widespread in Ethiopia as part of government efforts to promote them, their main activity is fertilizer distribution, for which they are the only legal source for farm households. Only 5% of cooperative members mention assistance with crop marketing as an advantage of membership.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Discouraging Private Sector] The non-competitive nature of agricultural products (due to non-standardized quality) and Nigeria's weak rule of law, coupled with insecurity, discourage private sector development. High costs of doing agribusiness (high corporation/business tax, low infrastructural development, multiplicity of taxes) discourage private investment in Nigeria's agriculture and the survival of the ATA.
+•
+[Limited Farmer Education] Lack of application of proper agronomic practices by smallholder farmers (due to familiarity with old traditions) is capable of jeopardizing the full benefit of the ATA without provision of adequate extension services.
+Opportunities Source: Jaernberg et al 2018.pdf
+•
+[Government Collaboration] Green niche actors view working with the government, particularly the agricultural extension system, as one of the main opportunities for having a sustained impact across scales.
+•
+[Donor Influence] The donor community has a certain influence through its financial power and technical advice, and is strongly involved in policy-making.
+Dimension 5: Analytics Strengths Source: Boettiger et al 2017.pdf
+•
+[Performance Tracking] For transformation to occur, performance tracking must exist for a country's agricultural strategy, with consequences for unmet targets.
+•
+[Enhanced Tracking] The Agricultural Transformation Agency (ATA) in Ethiopia created ongoing capacity for performance tracking of the country’s agricultural strategy.
+•
+[Evidence-Based Policy] The ability to make evidence-based policy requires good agriculture sector data.
+•
+[Adaptation Willingness] Subsequent development plans in Ethiopia acknowledged shortcomings/challenges of prior plans, indicating a willingness to adapt strategy based on evidence.
+Source: Minot el al 2022.pdf
+•
+[Data Availability] The study is facilitated by the availability of three highly comparable household surveys (ACC Surveys 2012, 2016, 2019) with large samples and a subsample of almost 1,900 panel households.
+•
+[National Farmers Database] Nigeria is establishing a national farmers database.
+•
+[Research & Extension] Strengthening research, extension education, and services is part of changing the incentive structure for sustainable agricultural transformation.
+Source: Mulesa 2021.pdf
+•
+[Research Capacity] The Seed Improvement and Development Program (SIDP) helped establish Ethiopia’s central institutions for the formal seed system between 1972 and 1984, strengthening the Ethiopian Institute of Agricultural Research’s (EIAR) capacity in plant breeding and quality seed production.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Market Information & Standards] The Nigerian government is establishing marketing corporations to facilitate marketing of agricultural commodities, which will coordinate production, investments, grades/standards, and market price stabilization.
+•
+[Research & Extension] Nigeria can harness the strengths of existing research institutions and strengthen their partnerships with farmers and the private sector to ensure research products meet stakeholder needs.
+Weaknesses Source: Boettiger et al 2017.pdf
+•
+[Poor Analytics Access] Leaders often lacked access to good analytics.
+•
+[Tracking Challenges] Ethiopia's Welfare Monitoring System, in place since the mid-1990s, faced implementation challenges for several decades.
+Source: Diriba 2018.pdf
+•
+[Knowledge Utilization Gap] The real difference between rich and poor countries is how effectively nations and people utilize knowledge (scientific invention, technology, innovation, and the internet), and Ethiopia is far behind.
+•
+[Lack of Clarity] The vocabulary of 'agricultural transformation' in Ethiopia lacks clarity about what it means or what may be expected of it, and there is an absence of 'clarity' of the concept within Ethiopia’s academic and policy discourse.
+Source: Jaernberg et al 2018.pdf
+•
+[Limited Research Influence] Research institutes play a certain role in Ethiopian policy processes, but the government itself seldom requests policy advice, and engagements in the processes are often not reflected in policy outcomes.
+Source: Minot el al 2022.pdf
+•
+[Risk Quantification] Risk plays an important role in agricultural commercialization, and programs are needed to reduce risks associated with adopting new commercial crops, such as through marketing information services, weather forecasts, and crop insurance.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Poor Market Information] Limited storage capacity and market information, coupled with poor infrastructure, which increases transport costs, threaten the competitiveness of domestic agricultural products.
+Opportunities Source: Diriba 2018.pdf
+•
+[Knowledge & Skills Access] Accessing the knowledge and skills embodied in technologies and management practices is a systemic trigger for transformation.
+•
+[Online Learning] The traditional extension system needs to be complemented or even replaced by online learning and private sector agricultural extension services.
+•
+[Big Data Application] Consideration should be given to rolling out the application of Internet and big data to allow for accurate estimates of demand for agricultural inputs, spatially and temporally.
+•
+[Homegrown Research] The transformation agenda must be supported by homegrown and Ethiopia-specific scholarly researches focusing on transformation processes, triggers, and indicators.
+Dimension 6: Political–Managerial Balance Strengths Source: Boettiger et al 2017.pdf
+•
+[Head of State Priority] Agricultural transformation being a high priority of the head of state and other top leaders is essential for true change to occur.
+•
+[High Political Priority] In Ethiopia, the goals of agricultural transformation were already a high priority for the government in 2000, shifting to high performance by 2005. Leadership could refocus on ADLI after the war, and the subsequent Prime Minister continued emphasis on agriculture.
+•
+[Policy Flexibility] A government's ability to modify its strategies and implementation approach as an agricultural transformation moves ahead is a critical essential enabler.
+•
+[Evidence-Based Policy Making] Transformation relies on decision-makers being open to external policy expertise to shape strategy (especially subsidies, tariffs, land, and irrigation) based on evidence.
+Source: Minot el al 2022.pdf
+•
+[High-Level Leadership] The Agricultural Transformation Implementation Council in Nigeria has been initiated and is headed by the president.
+•
+[Government Commitment] The Ethiopian government has pursued a strategy of agricultural-led economic growth, making significant investments in rural infrastructure and dedicating resources to identifying and overcoming obstacles to agricultural growth.
+Source: Mulesa 2021.pdf
+•
+[National Autonomy] Ethiopia's long history of independence means that national autonomy is practiced in policy formulation.
+•
+[PM's Homegrown Reform] Prime Minister Abiy Ahmed's recent Homegrown Economic Reform Program, aimed at making Ethiopia an African icon of prosperity by 2030, prioritizes the private sector.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Strategic Partnerships] The ATA in Nigeria works within a framework of strategic partnerships.
+•
+[Political Stability] Political stability is a key factor in successful agricultural transformation, as seen in Mexico's experience.
+Weaknesses Source: Boettiger et al 2017.pdf
+•
+[Low Leadership Support] One commonly absent component of transformation readiness relates to low support for transformation leadership, with leaders often lacking transformation training, access to good analytics, and a mentor network for support and practical advice.
+Source: Diriba 2018.pdf
+•
+[Lack of Sustained Commitment] There is a lack of sustained and intergenerational commitments to transformation, and leaders are often preoccupied with other issues, making only short-term responses to agricultural development, indicating a recurrent crisis of vision.
+•
+[Fear of Creative Destruction] There is insufficient appreciation of the potential of rural and agricultural transformation to generate employment on a sustainable and continual basis.
+•
+[Political Control Over Business] Owners of manufacturing and service sector industries (the elite) have proximity to political power that can influence policy choices and the development of other sectors.
+•
+[Bureaucratic Barriers] Centralized, bureaucratic, and lengthy planning, production, and distribution of certified seed makes timely access to seeds difficult.
+•
+[State Control Preference] The government prioritizes government-led formal seed system development as an instrument for securing political control of rural constituencies throughout Ethiopia.
+•
+[Sovereignty Narrative] The EPRDF government buffered neoliberal influences by playing a "sovereignty card" and diplomatically positioning itself as a force for regional stability and a partner in the "Global War on Terror," rather than solely aligning with Western economic policies.
+•
+[Elite Interests] Elite interests, in addition to centralized planning and state control of rural constituencies, have contributed to the lack of inclusive and equitable seed sector development.
+Source: Jaernberg et al 2018.pdf
+•
+[Authoritarian State] The current Ethiopian political system has been dominated by a single party since 1991, gradually moving towards authoritarianism, particularly after 2005. The socio-political culture is hierarchical.
+•
+[Developmental State Model] The government follows a "developmental state" model where a strong state is at the center of the development process as a grantor of economic growth, prioritizing economic development before political freedom, with economic growth as the basis of political legitimacy.
+•
+[Regime Filter] The dominant regime maintains the power to "filter" which of the green niche actors’ approaches are scaled, and is unlikely to scale approaches that fundamentally deviate from their own narrative about agricultural development.
+•
+[Courage Required] Pursuing more transformative actions that challenge the regime may not only require strategic thinking but also a certain degree of courage.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Political Pressure] Policy changes in Nigeria are often due to political pressure and changes of regime.
+•
+[Corruption] A high level of corruption in the system is a weakness. Corruption can retard progress through diversion of public funds into private pockets and diversion of inputs meant for farmers into the hands of unintended beneficiaries.
+Threats Source: Minot el al 2022.pdf
+•
+[Political Turnover] Political turnover is an external risk that could undermine ATx models.
+•
+[Competing Agendas] Competing agendas are external risks that could undermine ATx models.
+Dimension 7: Sustainability & Resilience Strengths Source: Diriba 2018.pdf
+•
+[Environmental Sustainability] Early and extensive work on environmental sustainability is identified as a systemic trigger for agricultural and rural transformation. Urgent action is needed to prevent irreversible environmental deterioration from soil and vegetation destruction.
+•
+[Diversified Seed Sources] Seed Producer Cooperatives (SPCs) and community seed banks have contributed to the diversification of the country's seed systems regarding farmers’ choice of crops, varieties, and seed sources.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Untapped Potential] Nigeria has untapped agricultural potential, including about 84 million hectares of arable land (only 40% utilized), 279 billion cubic meters of surface water, and untapped irrigation potential with 3 of the 8 major river systems in Africa. The country is also endowed with diverse and rich vegetation capable of supporting a large livestock population and an extensive coastal region rich in fish and other marine products.
+•
+[Resource Endowments] Nigeria is endowed with ample rainfall and a large labor force.
+•
+[Commercial Irrigation] Investment in commercial irrigation infrastructure is needed to mitigate the effects of climate change on agricultural production.
+•
+[Sustainable Watershed Management] Governments should invest in promoting environmentally-sustainable watershed management.
+•
+[Diversification] Diversification in crop production and the broader agricultural sector was an important characteristic of agricultural transformation in Thailand, which helped the rapid expansion of the agro-business sector.
+•
+[Youth Engagement] Factors impeding young people's willingness to participate in agriculture (drudgery, low income) should be addressed through improved technologies to make farming attractive.
+Weaknesses Source: Boettiger et al 2017.pdf
+•
+[Hard-to-Measure Shifts] Sustainability depends on hard-to-measure shifts in political commitment and institutional innovation.
+•
+[Long-Term Challenges] Ethiopia likely faces some long-term challenges to maintain momentum in later stages of agricultural transformation, requiring continued investment in expensive projects such as rural electrification and roads, and increased private sector engagement.
+•
+[Endowment Gaps] The framework for transformation readiness is not comprehensive and notably omits critical determinants like land rights, access to markets, and agroecological endowments, which require longer time and significant additional resources to change. Management of population growth and government approach to family planning are also critical omitted factors.
+Source: Diriba 2018.pdf
+•
+[Environmental Degradation] Environmental degradation is an obstacle to agricultural and rural transformation. The problems of agriculture and rural areas have created fissures and concerns for the environment. The expansion into pastoral and agro-pastoral zones creates a perfect storm for environmental deterioration and conflict between livestock and crop production.
+•
+[Dependence on Traditional Methods] The agricultural sector remains dependent on rainfall and traditional methods with minimal application of modern agricultural inputs. Ethiopia's agriculture relies on ox plow and rain-dependent techniques and has a negligible rate of mechanization, appearing as an "open museum of the Neolithic age".
+•
+[Ignoring Cumulative Change] Individuals, societies, and governments often become preoccupied with ongoing and current events, ignoring the sum total of changes over longer periods of time, which misses the effect and impact of cumulative change.
+Source: Jaernberg et al 2018.pdf
+•
+[Environmental Side-effects] There is a growing recognition of the negative environmental side-effects that conventional agricultural intensification often leads to.
+•
+[Land Degradation] Land degradation is a concern in Ethiopia, including high rates of annual soil losses.
+•
+[Rainfall Variability] Ethiopia experiences strong inter-annual variability of rainfall, leading to periodic droughts affecting all areas.
+•
+[Malthusian Diagnosis] The Natural resource rehabilitation narrative identifies heavy population pressure, poverty, and "inappropriate agricultural techniques" as underlying causes of natural resource degradation.
+•
+[Fringe Activity] Natural resource management remains seen as more of a fringe activity compared to production increases, despite being an explicit policy priority.
+•
+[Short-term focus] Natural resource management is mainly seen as a means of counteracting degradation and returning to a "non-degraded" baseline state, rather than providing a critical contribution to enhanced agricultural productivity over time.
+Source: Mulesa 2021.pdf
+•
+[Environmental Risks] Ethiopia has experienced extreme disasters such as drought, war, and consequent famine, which created debate about the role of formal and farmers’ seed systems.
+•
+[Lack of Local Adaptation] The government-led formal seed system produces seeds that are less adapted to farmers’ diverse agro-ecological and socio-economic needs and poses production risks, especially for poor farmers and those in marginal areas.
+•
+[Biodiversity Loss] Proponents of the Plant Genetic Resource Center/Ethiopia (now Ethiopian Biodiversity Institute - EBI) argued that Green Revolution crops could not substitute Ethiopia’s biodiversity treasure trove and did not consider the socio-cultural and agro-ecological diversity of the country linked to these resources.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Outmoded Techniques] Nigeria's agricultural sector is plagued by inefficient and outmoded production techniques.
+•
+[Heavy Post-Harvest Losses] There are heavy post-harvest losses.
+•
+[Limited Mechanization] Nigeria has limited access to mechanization, with only 10 tractors per 1000 hectares compared to Thailand's more than 241 tractors per 1000 hectares.
+•
+[Inadequate Infrastructure] A low level of infrastructural development, particularly decaying rural infrastructure and inefficient energy supply, are significant weaknesses.
+•
+[Climate Change] The effects of climate change without appropriate mitigation and adaptation strategies are capable of hindering agricultural production.
+•
+[Land Degradation] Land degradation is a concern that needs to be addressed through proper land use policy.
+Threats Source: Jaernberg et al 2018.pdf
+•
+[Climate Shocks] Climate shocks are external risks or pressures that could undermine the ATx model’s functioning or objectives.
+Source: Minot el al 2022.pdf
+•
+[Population Growth] Nigeria's population doubled in the last 30 years and is projected to reach 450 million by 2050, leading to increased food demand.
+•
+[Post-Harvest Losses] Over 50% of vegetables and fruits, 30% of tubers and roots, and 20% of grains suffer from post-harvest losses.
+•
+[Insecurity] The problem of insecurity discourages private sector development.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Globalization Competition] The Nigerian agricultural transformation is capable of leading to high competition in the market for agricultural products due to globalization.
+•
+[External Conditions] External conditions in the global environment, globalization, and climate change have a great impact on agricultural transformations and are likely to remain important in the future.
+Dimension 8: Catalytic Impact Strengths Source: Boettiger et al 2017.pdf
+•
+[Poverty Reduction Catalyst] Agricultural transformation lies at the core of poverty reduction, food security, and improved nutrition. Countries that have moved toward middle-income status have been initially driven by the transformation of their agriculture sector.
+•
+[Large Economic Impact] In India, addressing key agriculture sector constraints could create an increase in agricultural output of $175 billion and an 85% average increase in farmers’ incomes by 2025.
+•
+[Rural Economic Growth] Successful agricultural transformations can rapidly reduce poverty because they create powerful engines of rural economic growth.
+•
+[Productivity & Market Demand] The dynamics of an agricultural transformation start with increasing rural household income, higher productivity on farms, and greater demand in local markets.
+•
+[Ethiopia Success Story] Ethiopia’s path through the first stages of a national agricultural transformation is a sub-Saharan African success story, with many countries looking to the Ethiopian example for lessons. Ethiopia showed solid signs of agricultural transformation, including increased agricultural productivity and poverty reduction, between 2000 and 2015.
+•
+[Enhanced Policy Impact] Ethiopia’s government made critical institutional, organizational, and political changes that increased the impact of its early-stage agricultural transformation policies and investments. The ATA enabled a clearer and more effective process to align central and local agricultural strategies, created ongoing capacity for performance tracking, improved consultation, and increased ministerial coordination capacity.
+Source: Jaernberg et al 2018.pdf
+•
+[Critical for Development] A transformation of current agricultural systems is widely perceived as critical for poverty reduction, increased human well-being, and economic development in Ethiopia.
+•
+[Yield Increases] Cereal yields in Ethiopia increased from an average of 1.2 tons/hectare in 2000–2004 to 2.1 tons/hectare in 2010–2014.
+•
+[Sustainable Intensification Potential] An increasing body of empirical evidence shows that sustainable agricultural practices can indeed raise productivity and meet various sustainability criteria, often leading to win-win or neutral-win outcomes for yield and ecosystem services.
+Source: Minot el al 2022.pdf
+•
+[Income & Welfare Improvement] Agricultural commercialization allows farmers to generate a higher income and maintain a better standard of living.
+•
+[Higher Returns] Commercial crops generate higher returns per hectare (three to seven times greater) than staple food crops such as maize, sorghum, millet, and teff.
+•
+[Increased Diet Diversity] Agricultural commercialization has a positive and statistically significant, though small, effect on household diet diversity.
+•
+[Increased Marketed Share] The marketed share of agricultural output in Ethiopia increased significantly between 2012 and 2019. This increase was due to an increase in the degree of commercialization of each crop, rather than a shift in crop mix toward more commercial crops.
+•
+[Poverty Reduction] Transformation in the agricultural sector has been recognized as having one of the largest impacts on reducing poverty (e.g., 3.5 times more effective in China, 2.7 times in Latin America). Successful rural transformation is key to reducing poverty as a majority of the poor are found in rural areas.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Economic Growth Driver] Agriculture is a major driver of Nigeria's economic growth and a crucial sector in achieving its vision.
+•
+[Employment Generation] Nigeria's ATA promises to generate employment. The value chain approach is capable of creating jobs and reducing unemployment through various activities in the chains. Thailand's agricultural transformation catalyzed growth in its manufacturing sector and enabled it to have one of the lowest unemployment rates in the world.
+•
+[Increased Productivity] The transformation of the Nigerian agricultural sector is a necessary instrument to achieve a 3-fold increase in domestic agricultural productivity by 2015 and a 6-fold increase by 2020.
+•
+[Value Addition] Value added is created at different stages and by different actors throughout the value chain, resulting from diverse transformational and marketing functions.
+•
+[Market Orientation] Agricultural transformation is measured by significant improvement in land and labor productivity, greater market-orientation and production diversification, as well as increased domestic and international competitiveness.
+Weaknesses Source: Diriba 2018.pdf
+•
+[Stalled Transformation] Many countries remain stalled in their journey toward agricultural transformation. Despite national efforts, the number of poor and food-insecure people in Ethiopia remains very high, with an estimated 25 million at the threshold of survival. The numbers of people on emergency and safety net program assistance have been consistently increasing. Ethiopia's import of cereals, edible oil, and lint cotton continues to rise dramatically, costing over a billion dollars every year, despite these products potentially being homegrown.
+•
+[Growth Without Transformation] Ethiopia has registered rapid, broad-based, and inclusive economic growth (averaging 10% per annum) and a substantial decline in monetary poverty. However, the multi-dimensional poverty index remains very high (83.5%). The government self-assessment admitted "limitation in terms of structural change" and that "there had been no structural change at all". Increases in output growth have often been due to area expansion rather than yield increase per unit area.
+•
+[Uneven Gains] Accelerated transformation has occurred at the national level but with uneven gains along ethnic/geographic lines. There are growing divisions and inequalities between the rich and the poor, those with and without land access, different generations, genders, and between well-connected and less well-connected communities.
+•
+[Traditional System Acceptance] Ethiopia seems to have accepted its traditional system of agricultural production as the best available.
+•
+[Limited Scale for Smallholders] Increase in crop productivity is certainly necessary but insufficient to produce all-inclusive agricultural transformation.
+Source: Jaernberg et al 2018.pdf
+•
+[Poverty & Food Insecurity] Despite rapid economic growth and increasing crop yields, Ethiopia remains one of the world’s poorest countries, marked by significant food security problems and recurrent famines.
+•
+[Limited Adoption] Sustainable intensification technologies often have limited success outside project-supported locations, with low spontaneous adoption and adaptation.
+•
+[Limited Transformative Action] The strategy of green niche actors inhibits more transformative action that challenges the government’s narrative about agricultural development, primarily allowing for "scaling out" rather than "scaling up" and "scaling deep".
+•
+[Adaptation Likely] Under current conditions, an adaptation of the regime’s envisaged trajectory for Ethiopian agriculture is a more likely scenario than a more fundamental transformation towards sustainability.
+Source: Minot el al 2022.pdf
+•
+[Uneven Progress] The increase in commercialization was not uniform across all household types or regions; very small farms (less than 0.5 ha) and large farms (over 5 ha) showed no statistically significant increase in commercialization over the 2012-19 period. Farm households in Tigray and SNNP regions showed statistically insignificant increases in commercialization.
+Source: Mulesa 2021.pdf
+•
+[Ineffective Formal System] Ethiopia has experienced decades of an ineffective formal seed system. The poor performance of the linear formal seed system and its consequences for seed security and governance are debated.
+•
+[Lagging Implementation] The Pluralistic Seed System Development Strategy (PSSDS) has yet to realize its equity and sustainability potential, and its implementation lags, particularly for the informal seed system, which is neglected despite its crucial role in supplying large quantities of seeds.
+•
+[Limited Impact on Poor] Weaker farmers disproportionately benefit from government input supply compared to wealthier model farmers. A recent field study identified seed insecurity in both commercially-oriented wheat farming and subsistence-oriented teff growing districts in Ethiopia.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Not Self-Sufficient] Nigeria is yet to be self-sufficient in food production, continuing to import food at an unsustainable rate of 11% per annum.
+•
+[Bypassing Small Farmers] Bypassing small farmers during agricultural transformation is capable of marginalizing a large group of the rural population and causing social tensions. Nigeria on many occasions tries to tackle problems with large-scale models and expansive programs that are inappropriate for smallholders.
+Opportunities Source: Diriba 2018.pdf
+•
+[Productivity Increase Potential] Ethiopia has the potential to substantially increase pulse crop yields, even doubling current yields. The livestock sector also has huge potential to transform into an economic engine for households and the nation.
+•
+[Mechanization Imperative] Replacing the ox-plow and manual agricultural production practices with mechanized systems is the "sine qua non" of agricultural transformation.
+•
+[High Value Crops] Commercial crops generate higher returns per hectare than staple food crops, which can drive income and welfare improvement.
+Source: Obayelu and Obayelu 2014.pdf
+•
+[Global Market Player] The Agricultural Transformation Agenda aims to transform Nigeria into a leading player in global food markets.
+•
+[Net Exporter] The agenda seeks to transform the country into a net exporter of agricultural commodities.
+•
+[Industrial Raw Materials] One objective of agricultural development is to supply raw material inputs for the industrial sector.
+•
+[Agro-Processing] Diversification in agriculture helps the rapid expansion of the agro-business sector.
+•
+[Commercialization Benefits] Survey data indicate that farmers who choose to commercialize generally have higher per capita income and slightly more diverse diets.
+Threats Source: Minot el al 2022.pdf
+•
+[High Imports] Ethiopia's import of cereals, edible oil, and lint cotton continues to rise dramatically, costing over a billion dollars every year.
