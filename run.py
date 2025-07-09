@@ -1,4 +1,6 @@
 # run.py (Final Version)
+# venv\Scripts\activate
+
 from aati_figures import *
 import os
 import pandas as pd
@@ -25,6 +27,7 @@ if exists(codified_path):
 else:
     raw_df = load_raw_matrix(RAW_CSV)
     codified_df = codify_swot(raw_df)
+    codified_df = normalize_dimension_names(codified_df)  # ← ADD THIS LINE
     codified_df['Code'] = codified_df['Text'].apply(lambda x: extract_bracketed_codes(x)[0] if extract_bracketed_codes(x) else None)
     codified_df.dropna(subset=['Code'], inplace=True)
     print("  -> Cleaning and standardizing 'Source' column...")

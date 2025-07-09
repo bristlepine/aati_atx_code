@@ -1,4 +1,5 @@
 # aati_figures.py (Updated Version)
+# venv\Scripts\activate
 
 import os
 import pandas as pd
@@ -26,6 +27,16 @@ RAW_CSV = "NotebookLM_Combined_Matrix.csv"
 OUTPUT_DIR = "outputs"
 
 # --- Core Data Functions ---
+def normalize_dimension_names(df):
+    df['Dimension'] = (
+        df['Dimension']
+        .astype(str)
+        .str.replace('–', '-', regex=False)  # Replace en dash
+        .str.replace('—', '-', regex=False)  # Replace em dash
+        .str.strip()
+    )
+    return df
+
 def load_raw_matrix(path):
     return pd.read_csv(path)
 
@@ -258,10 +269,20 @@ def plot_swot_summary_grid_by_source(df, filename):
     # Legend
     handles, labels = axes[0].get_legend_handles_labels() if not pivot_tables["All Sources"].empty else ([], [])
     if handles:
-        fig.legend(handles, labels, title='SWOT Category', fontsize=12, loc='upper right', bbox_to_anchor=(0.98, 0.98))
+        fig.subplots_adjust(top=0.90)  # Make room at top
+        fig.legend(
+            handles, labels,
+            title='SWOT Category',
+            loc='upper center',
+            bbox_to_anchor=(0.5, 0.95),
+            ncol=4,
+            fontsize=14,
+            title_fontsize=15,
+            frameon=False  # Optional: Remove legend box border
+        )
 
     fig.suptitle('SWOT Item Count by Dimension and Source', fontsize=22, y=0.99)
-    plt.tight_layout(rect=[0, 0, 1, 0.96])
+    plt.tight_layout(rect=[0, 0, 1, 0.9])
 
     if filename:
         plt.savefig(filename, dpi=300)
