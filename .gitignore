@@ -24,3 +24,6 @@ codified_matrix.csv
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Env
+.env
